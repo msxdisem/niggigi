@@ -760,3 +760,33 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Feb2025 17:50:47.135] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18928ms or 378 ticks behind
 [07Feb2025 17:57:21.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 649.500000, 108.500000, -340.500000]
 [07Feb2025 18:02:51.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: The difficulty has been set to Normal]
+[07Feb2025 18:17:20.188] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Eguaro[/100.94.15.45:63987] logged in with entity id 6058 at (846.2863808875519, 112.0, -415.78088719110576)
+[07Feb2025 18:17:20.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro joined the game
+[07Feb2025 18:17:20.341] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: PLAYER_JOIN
+[07Feb2025 18:17:20.341] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: add_player wand
+[07Feb2025 18:17:20.341] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: config sent
+[07Feb2025 18:17:20.382] [Server thread/INFO] [Jade/]: Syncing config to Eguaro (700ed6dc-3302-30de-8a1d-bb4738984f48)
+[07Feb2025 18:17:24.639] [Netty Epoll Server IO #3/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] Eguaro: protocol version: 2.0
+[07Feb2025 18:17:24.652] [Server thread/INFO] [ShulkerBoxTooltip Plugins/]: [ShulkerBoxTooltip Plugins] Loading 1 plugin: shulkerboxtooltip
+[07Feb2025 18:17:24.656] [Server thread/INFO] [ShulkerBoxTooltip Plugins/]: [ShulkerBoxTooltip Plugins] Registered 7 providers for mod shulkerboxtooltip
+[07Feb2025 18:17:27.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Made Eguaro a server operator]
+[07Feb2025 18:19:17.544] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=913, y=133, z=-376} BlockPos{x=912, y=132, z=-376}
+[07Feb2025 18:19:17.595] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=913, y=133, z=-376} BlockPos{x=912, y=132, z=-376}
+[07Feb2025 18:21:05.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 676.500000, 117.500000, -340.500000]
+[07Feb2025 18:22:37.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro has made the advancement [Metal Pipe Falling ]
+[07Feb2025 18:23:48.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 609.500000, 76.500000, -2734.500000]
+[07Feb2025 18:23:57.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Eguaro]
+[07Feb2025 18:24:18.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 649.500000, 108.500000, -340.500000]
+[07Feb2025 18:25:28.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 1297.500000, 214.500000, -2560.500000]
+[07Feb2025 18:25:28.062] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3205ms or 64 ticks behind
+[07Feb2025 18:25:49.955] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1478, y=-9, z=-2716}
+[07Feb2025 18:25:49.956] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1477, y=-9, z=-2716}
+[07Feb2025 18:26:08.660] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[07Feb2025 18:27:24.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 3430.500000, 75.500000, -5625.500000]
+[07Feb2025 18:27:24.549] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2142ms or 42 ticks behind
+[07Feb2025 18:27:35.386] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=3563, y=-30, z=-5551}
+[07Feb2025 18:27:43.978] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=3575, y=24, z=-5572}
+[07Feb2025 18:27:43.979] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=3576, y=24, z=-5572}
+[07Feb2025 18:27:48.205] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=3306, y=-35, z=-5785}
+[07Feb2025 18:27:48.211] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2204ms or 44 ticks behind
+[07Feb2025 18:28:14.072] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind

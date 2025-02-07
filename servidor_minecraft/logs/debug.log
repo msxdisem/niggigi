@@ -12381,3 +12381,37 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Feb2025 18:27:48.205] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=3306, y=-35, z=-5785}
 [07Feb2025 18:27:48.211] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2204ms or 44 ticks behind
 [07Feb2025 18:28:14.072] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[07Feb2025 18:28:18.073] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=3457, y=-4, z=-5445}
+[07Feb2025 18:28:31.451] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=3591, y=-40, z=-5435}
+[07Feb2025 18:28:36.004] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6946ms or 138 ticks behind
+[07Feb2025 18:30:11.848] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Feb2025 18:30:11.877] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Feb2025 18:30:20.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 676.500000, 117.500000, -340.500000]
+[07Feb2025 18:31:36.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 3430.500000, 75.500000, -5625.500000]
+[07Feb2025 18:33:02.408] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=758, y=133, z=-197} BlockPos{x=758, y=133, z=-198}
+[07Feb2025 18:33:23.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> no se escucha tu mic
+[07Feb2025 18:33:35.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Eguaro> wait
+[07Feb2025 18:33:40.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> ok
+[07Feb2025 18:33:46.231] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=3388, y=-10, z=-5410}
+[07Feb2025 18:33:46.514] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=3605, y=-40, z=-5416}
+[07Feb2025 18:33:46.514] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=3605, y=-40, z=-5417}
+[07Feb2025 18:34:11.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 676.500000, 117.500000, -340.500000]
+[07Feb2025 18:34:51.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 3430.500000, 75.500000, -5625.500000]
+[07Feb2025 18:35:11.579] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Feb2025 18:35:11.610] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Feb2025 18:36:28.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 676.500000, 117.500000, -340.500000]
+[07Feb2025 18:37:43.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 4367.500000, 144.500000, -6487.500000]
+[07Feb2025 18:37:43.056] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2599ms or 51 ticks behind
+[07Feb2025 18:37:44.343] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/19027, l='ServerLevel[world]', x=4384.78, y=133.94, z=-6473.19], dimensionLocationPath overworld
+[07Feb2025 18:37:44.343] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/19027, l='ServerLevel[world]', x=4384.78, y=133.94, z=-6473.19] in list []
+[07Feb2025 18:37:44.398] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Glowstone Dust'/19053, l='ServerLevel[world]', x=4321.96, y=142.00, z=-6468.73], dimensionLocationPath overworld
+[07Feb2025 18:37:44.398] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Glowstone Dust'/19053, l='ServerLevel[world]', x=4321.96, y=142.00, z=-6468.73] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@4a53]
+[07Feb2025 18:37:52.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 839.500000, 112.500000, -424.500000]
+[07Feb2025 18:38:01.574] [Worker-Main-58/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=4464, y=33, z=-6332}
+[07Feb2025 18:38:19.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 6073.500000, 63.500000, -5625.500000]
+[07Feb2025 18:38:19.445] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2388ms or 47 ticks behind
+[07Feb2025 18:38:19.750] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/19027, l='ServerLevel[world]', x=4384.78, y=133.94, z=-6473.19, removed=UNLOADED_TO_CHUNK]
+[07Feb2025 18:38:19.753] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Glowstone Dust'/19053, l='ServerLevel[world]', x=4321.96, y=142.00, z=-6468.73, removed=UNLOADED_TO_CHUNK]
+[07Feb2025 18:38:42.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 4711.500000, 69.500000, -6861.500000]
+[07Feb2025 18:38:42.024] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2566ms or 51 ticks behind
+[07Feb2025 18:38:43.612] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eguaro moved too quickly! 4.881118288462403,0.0,-8.786102725592741

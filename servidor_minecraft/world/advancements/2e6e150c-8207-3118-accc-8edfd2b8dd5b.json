@@ -7454,6 +7454,7 @@
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_sword": "2024-12-31 05:53:47 +0000",
+      "has_golden_helmet": "2025-02-07 20:24:58 +0000",
       "has_golden_leggings": "2024-12-31 05:53:53 +0000",
       "has_golden_pickaxe": "2024-12-28 03:33:30 +0000",
       "has_golden_boots": "2024-12-24 02:13:48 +0000",
@@ -7496,6 +7497,7 @@
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_sword": "2024-12-31 05:53:47 +0000",
+      "has_golden_helmet": "2025-02-07 20:24:58 +0000",
       "has_golden_leggings": "2024-12-31 05:53:53 +0000",
       "has_golden_pickaxe": "2024-12-28 03:33:30 +0000",
       "has_golden_boots": "2024-12-24 02:13:48 +0000",
@@ -20531,6 +20533,12 @@
     },
     "done": false
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-02-07 20:30:27 +0000"
+    },
+    "done": false
+  },
   "supplementaries:recipes/decorations/biomesoplenty/sign_post_fir": {
     "criteria": {
       "has_planks": "2025-02-07 18:52:08 +0000"
@@ -20583,6 +20591,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
     "criteria": {
       "has_polished_deepslate": "2025-02-07 18:04:41 +0000"
+    },
+    "done": false
+  },
+  "aether:recipes/combat/golden_helmet_repairing": {
+    "criteria": {
+      "has_golden_helmet": "2025-02-07 20:24:58 +0000"
     },
     "done": false
   },

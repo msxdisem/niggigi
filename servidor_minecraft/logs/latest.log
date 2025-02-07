@@ -5524,3 +5524,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Feb2025 20:00:54.380] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
 [07Feb2025 20:04:36.285] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=927, y=113, z=-465} BlockPos{x=922, y=111, z=-468}
 [07Feb2025 20:13:25.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Set the weather to clear]
+[07Feb2025 20:22:41.431] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:herobrine but it was marked as removed already
+[07Feb2025 20:24:39.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Set the weather to clear]
+[07Feb2025 20:25:08.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro has completed the challenge [Sniper Duel]
+[07Feb2025 20:25:31.139] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=902, y=119, z=-393} BlockPos{x=902, y=119, z=-391}
+[07Feb2025 20:25:31.192] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=902, y=119, z=-393} BlockPos{x=902, y=119, z=-391}

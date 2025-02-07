@@ -3342,6 +3342,7 @@
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_axe": "2025-01-14 16:19:32 +0000",
+      "has_iron_shovel": "2025-02-07 19:14:30 +0000",
       "has_chainmail_helmet": "2025-01-14 15:58:33 +0000",
       "has_iron_helmet": "2025-01-20 02:31:53 +0000",
       "has_iron_sword": "2025-01-13 23:27:53 +0000"
@@ -3351,6 +3352,7 @@
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_axe": "2025-01-14 16:19:32 +0000",
+      "has_iron_shovel": "2025-02-07 19:14:30 +0000",
       "has_chainmail_helmet": "2025-01-14 15:58:33 +0000",
       "has_iron_helmet": "2025-01-20 02:31:53 +0000",
       "has_iron_sword": "2025-01-13 23:27:53 +0000"
@@ -15166,6 +15168,12 @@
       "iron_stick_advancement_0": "2025-02-07 18:22:37 +0000"
     },
     "done": true
+  },
+  "aether:recipes/tools/iron_shovel_repairing": {
+    "criteria": {
+      "has_iron_shovel": "2025-02-07 19:14:30 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

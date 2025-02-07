@@ -12415,3 +12415,62 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Feb2025 18:38:42.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 4711.500000, 69.500000, -6861.500000]
 [07Feb2025 18:38:42.024] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2566ms or 51 ticks behind
 [07Feb2025 18:38:43.612] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eguaro moved too quickly! 4.881118288462403,0.0,-8.786102725592741
+[07Feb2025 18:38:52.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 109.500000, 63.500000, 332.500000]
+[07Feb2025 18:40:14.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 952.500000, 130.500000, -393.500000]
+[07Feb2025 18:40:19.017] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Feb2025 18:40:19.044] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Feb2025 18:41:05.043] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=943, y=124, z=-401} BlockPos{x=944, y=123, z=-402}
+[07Feb2025 18:41:11.039] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=953, y=125, z=-397} BlockPos{x=952, y=124, z=-397}
+[07Feb2025 18:41:32.106] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=941, y=128, z=-400} BlockPos{x=940, y=126, z=-399}
+[07Feb2025 18:41:32.301] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=939, y=127, z=-400} BlockPos{x=940, y=128, z=-399}
+[07Feb2025 18:42:58.526] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[07Feb2025 18:42:59.274] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[07Feb2025 18:42:59.679] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[07Feb2025 18:43:00.183] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[07Feb2025 18:43:04.046] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=417, y=120, z=467}) doesn't have enough leaves around top most log
+[07Feb2025 18:43:04.446] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=418, y=120, z=467}) doesn't have enough leaves around top most log
+[07Feb2025 18:43:04.896] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=417, y=120, z=466}) doesn't have enough leaves around top most log
+[07Feb2025 18:43:05.295] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=418, y=120, z=466}) doesn't have enough leaves around top most log
+[07Feb2025 18:43:22.570] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[07Feb2025 18:43:23.067] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[07Feb2025 18:43:23.489] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[07Feb2025 18:43:23.876] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[07Feb2025 18:43:24.263] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[07Feb2025 18:43:24.664] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[07Feb2025 18:43:25.111] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[07Feb2025 18:43:25.614] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[07Feb2025 18:43:26.018] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[07Feb2025 18:43:26.406] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[07Feb2025 18:43:26.818] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[07Feb2025 18:43:27.934] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=442, y=121, z=472}) doesn't have enough leaves around top most log
+[07Feb2025 18:43:28.301] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=442, y=121, z=473}) doesn't have enough leaves around top most log
+[07Feb2025 18:43:28.699] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=443, y=121, z=472}) doesn't have enough leaves around top most log
+[07Feb2025 18:43:29.098] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=443, y=121, z=473}) doesn't have enough leaves around top most log
+[07Feb2025 18:43:29.646] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=442, y=120, z=472}) doesn't have enough leaves around top most log
+[07Feb2025 18:43:30.041] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=443, y=120, z=472}) doesn't have enough leaves around top most log
+[07Feb2025 18:43:30.482] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=443, y=120, z=473}) doesn't have enough leaves around top most log
+[07Feb2025 18:43:30.994] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=442, y=122, z=473}) doesn't have enough leaves around top most log
+[07Feb2025 18:43:31.892] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=442, y=120, z=473}) doesn't have enough leaves around top most log
+[07Feb2025 18:43:32.495] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=443, y=122, z=473}) doesn't have enough leaves around top most log
+[07Feb2025 18:43:39.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Eguaro]
+[07Feb2025 18:44:27.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 941.500000, 138.500000, -349.500000]
+[07Feb2025 18:44:44.331] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=946, y=137, z=-354} BlockPos{x=945, y=137, z=-355}
+[07Feb2025 18:44:44.387] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=946, y=137, z=-355} BlockPos{x=945, y=137, z=-355}
+[07Feb2025 18:45:04.680] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=945, y=136, z=-350} BlockPos{x=946, y=135, z=-350}
+[07Feb2025 18:45:18.993] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Feb2025 18:45:19.021] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Feb2025 18:45:37.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 649.500000, 108.500000, -340.500000]
+[07Feb2025 18:45:54.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 935.500000, 112.500000, -352.500000]
+[07Feb2025 18:45:57.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 927.500000, 121.500000, -357.500000]
+[07Feb2025 18:46:14.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 947.500000, 112.500000, -352.500000]
+[07Feb2025 18:46:17.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 941.500000, 112.500000, -352.500000]
+[07Feb2025 18:46:27.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 934.500000, 112.500000, -351.500000]
+[07Feb2025 18:46:30.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 929.500000, 120.500000, -353.500000]
+[07Feb2025 18:46:42.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 944.500000, 136.500000, -352.500000]
+[07Feb2025 18:46:47.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 943.500000, 148.500000, -351.500000]
+[07Feb2025 18:47:17.598] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=948, y=127, z=-365} BlockPos{x=946, y=126, z=-362}
+[07Feb2025 18:47:19.002] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=939, y=126, z=-363} BlockPos{x=939, y=126, z=-364}
+[07Feb2025 18:47:19.042] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=939, y=126, z=-363} BlockPos{x=939, y=126, z=-364}
+[07Feb2025 18:47:19.092] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=939, y=126, z=-363} BlockPos{x=939, y=126, z=-364}
+[07Feb2025 18:47:19.140] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=939, y=126, z=-363} BlockPos{x=939, y=126, z=-364}
+[07Feb2025 18:47:19.192] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=939, y=126, z=-363} BlockPos{x=939, y=126, z=-364}

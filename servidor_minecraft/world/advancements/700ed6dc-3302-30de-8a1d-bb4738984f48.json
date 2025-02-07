@@ -15163,6 +15163,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/mountain_troll_leather_chestplate": {
+    "criteria": {
+      "has_item": "2025-02-07 19:48:05 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/combat/mountain_troll_leather_boots": {
+    "criteria": {
+      "has_item": "2025-02-07 19:48:05 +0000"
+    },
+    "done": false
+  },
   "crystalcraft_unlimited_java:iron_stick_advancement": {
     "criteria": {
       "iron_stick_advancement_0": "2025-02-07 18:22:37 +0000"
@@ -15172,6 +15184,12 @@
   "aether:recipes/tools/iron_shovel_repairing": {
     "criteria": {
       "has_iron_shovel": "2025-02-07 19:14:30 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/combat/mountain_troll_leather_leggings": {
+    "criteria": {
+      "has_item": "2025-02-07 19:48:05 +0000"
     },
     "done": false
   },

@@ -764,3 +764,43 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Feb2025 21:59:25.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Set own game mode to Survival Mode]
 [07Feb2025 21:59:58.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 686.500000, 108.500000, -362.500000]
 [07Feb2025 22:02:21.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 909.500000, 128.500000, -398.500000]
+[07Feb2025 22:14:42.343] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Liraanto lost connection: Disconnected
+[07Feb2025 22:14:42.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto left the game
+[07Feb2025 22:14:42.344] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
+[07Feb2025 22:14:55.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[07Feb2025 22:14:55.177] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Watcher has shut down
+[07Feb2025 22:14:55.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[07Feb2025 22:14:55.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[07Feb2025 22:14:55.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[07Feb2025 22:14:55.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[07Feb2025 22:14:55.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[07Feb2025 22:14:55.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_backrooms_loxor:level_2
+[07Feb2025 22:14:55.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_backrooms_loxor:level_3
+[07Feb2025 22:14:55.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_backrooms_loxor:level_0
+[07Feb2025 22:14:55.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[07Feb2025 22:14:55.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/boh:gaster_dimension
+[07Feb2025 22:14:55.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[07Feb2025 22:14:55.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[07Feb2025 22:14:55.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_backrooms_loxor:level_1
+[07Feb2025 22:14:55.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_backrooms_loxor:level_5
+[07Feb2025 22:14:55.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_backrooms_loxor:level_4
+[07Feb2025 22:14:55.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/boh:level_0
+[07Feb2025 22:14:55.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/boh:boiler_room_dimension
+[07Feb2025 22:14:55.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07Feb2025 22:14:55.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[07Feb2025 22:14:55.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_2): All chunks are saved
+[07Feb2025 22:14:55.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_3): All chunks are saved
+[07Feb2025 22:14:55.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_0): All chunks are saved
+[07Feb2025 22:14:55.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07Feb2025 22:14:55.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (gaster_dimension): All chunks are saved
+[07Feb2025 22:14:55.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07Feb2025 22:14:55.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[07Feb2025 22:14:55.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_1): All chunks are saved
+[07Feb2025 22:14:55.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_5): All chunks are saved
+[07Feb2025 22:14:55.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_4): All chunks are saved
+[07Feb2025 22:14:55.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_0): All chunks are saved
+[07Feb2025 22:14:55.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (boiler_room_dimension): All chunks are saved
+[07Feb2025 22:14:55.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[07Feb2025 22:14:55.532] [Server thread/INFO] [Framework/]: Unloading server configs...
+[07Feb2025 22:14:55.534] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[07Feb2025 22:14:55.536] [Server thread/INFO] [Framework/]: Finished unloading server configs

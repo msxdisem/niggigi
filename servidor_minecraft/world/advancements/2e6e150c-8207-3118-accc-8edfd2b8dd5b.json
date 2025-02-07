@@ -20533,12 +20533,6 @@
     },
     "done": false
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2025-02-07 20:30:27 +0000"
-    },
-    "done": false
-  },
   "supplementaries:recipes/decorations/biomesoplenty/sign_post_fir": {
     "criteria": {
       "has_planks": "2025-02-07 18:52:08 +0000"

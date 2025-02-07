@@ -5529,3 +5529,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Feb2025 20:25:08.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro has completed the challenge [Sniper Duel]
 [07Feb2025 20:25:31.139] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=902, y=119, z=-393} BlockPos{x=902, y=119, z=-391}
 [07Feb2025 20:25:31.192] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=902, y=119, z=-393} BlockPos{x=902, y=119, z=-391}
+[07Feb2025 20:34:42.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to STRANJO]

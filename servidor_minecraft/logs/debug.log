@@ -16654,3 +16654,41 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Feb2025 19:20:09.336] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['antiqueito'/37589, l='ServerLevel[world]', x=43.79, y=46.00, z=-139.95], dimensionLocationPath the_end
 [07Feb2025 19:20:09.336] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['antiqueito'/37589, l='ServerLevel[world]', x=43.79, y=46.00, z=-139.95] is dead or in a banned dimension the_end
 [07Feb2025 19:20:23.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to 51.500000, 44.500000, -141.500000]
+[07Feb2025 19:20:27.589] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Feb2025 19:20:27.615] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Feb2025 19:21:49.292] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:herobrine but it was marked as removed already
+[07Feb2025 19:22:15.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to 133.500000, 44.500000, -237.500000]
+[07Feb2025 19:23:21.481] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['antiqueito'/37589, l='ServerLevel[world]', x=121.71, y=1.00, z=-235.18], dimensionLocationPath the_end
+[07Feb2025 19:23:21.482] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['antiqueito'/37589, l='ServerLevel[world]', x=121.71, y=1.00, z=-235.18] is dead or in a banned dimension the_end
+[07Feb2025 19:23:25.328] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['antiqueito'/37589, l='ServerLevel[world]', x=124.53, y=1.00, z=-229.19], dimensionLocationPath the_end
+[07Feb2025 19:23:25.328] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['antiqueito'/37589, l='ServerLevel[world]', x=124.53, y=1.00, z=-229.19] is dead or in a banned dimension the_end
+[07Feb2025 19:23:45.057] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/42458, l='ServerLevel[world]', x=903.40, y=112.53, z=-390.63], dimensionLocationPath overworld
+[07Feb2025 19:23:45.057] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/42458, l='ServerLevel[world]', x=903.40, y=112.53, z=-390.63] in list []
+[07Feb2025 19:23:45.992] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/42458, l='ServerLevel[world]', x=903.13, y=113.08, z=-391.24, removed=DISCARDED]
+[07Feb2025 19:24:14.942] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: antiqueito lost connection: Disconnected
+[07Feb2025 19:24:14.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: antiqueito left the game
+[07Feb2025 19:24:14.942] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
+[07Feb2025 19:24:37.057] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/42866, l='ServerLevel[world]', x=925.62, y=112.23, z=-389.62], dimensionLocationPath overworld
+[07Feb2025 19:24:37.057] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/42866, l='ServerLevel[world]', x=925.62, y=112.23, z=-389.62] in list []
+[07Feb2025 19:24:37.557] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/42866, l='ServerLevel[world]', x=925.27, y=112.00, z=-389.03, removed=DISCARDED]
+[07Feb2025 19:25:12.748] [Server thread/DEBUG] [Radiant Gear/]: Built new CuriosLightSourceContainer for player ServerPlayer['STRANJO'/1296, l='ServerLevel[world]', x=680.50, y=113.00, z=-342.50]
+[07Feb2025 19:25:27.417] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Feb2025 19:25:27.444] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Feb2025 19:25:47.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: The difficulty has been set to Normal]
+[07Feb2025 19:26:07.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 608.500000, 65.500000, -2731.500000]
+[07Feb2025 19:26:17.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Set the weather to clear]
+[07Feb2025 19:27:22.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to STRANJO]
+[07Feb2025 19:27:36.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 676.500000, 117.500000, -340.500000]
+[07Feb2025 19:27:45.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Eguaro]
+[07Feb2025 19:27:46.327] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=613, y=76, z=-2728}
+[07Feb2025 19:27:46.327] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=613, y=76, z=-2729}
+[07Feb2025 19:28:11.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 839.500000, 112.500000, -424.500000]
+[07Feb2025 19:29:43.807] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/45479, l='ServerLevel[world]', x=895.47, y=112.40, z=-392.33], dimensionLocationPath overworld
+[07Feb2025 19:29:43.807] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/45479, l='ServerLevel[world]', x=895.47, y=112.40, z=-392.33] in list []
+[07Feb2025 19:29:50.814] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/45508, l='ServerLevel[world]', x=899.65, y=112.42, z=-392.67], dimensionLocationPath overworld
+[07Feb2025 19:29:50.815] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/45508, l='ServerLevel[world]', x=899.65, y=112.42, z=-392.67] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@b1a7]
+[07Feb2025 19:29:56.107] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/45519, l='ServerLevel[world]', x=903.51, y=112.36, z=-396.66], dimensionLocationPath overworld
+[07Feb2025 19:29:56.107] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/45519, l='ServerLevel[world]', x=903.51, y=112.36, z=-396.66] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@b1a7, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@b1c4]
+[07Feb2025 19:29:56.607] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/45519, l='ServerLevel[world]', x=904.25, y=112.11, z=-396.40, removed=DISCARDED]
+[07Feb2025 19:30:27.426] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Feb2025 19:30:27.455] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

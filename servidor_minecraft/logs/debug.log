@@ -12474,3 +12474,32 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Feb2025 18:47:19.092] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=939, y=126, z=-363} BlockPos{x=939, y=126, z=-364}
 [07Feb2025 18:47:19.140] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=939, y=126, z=-363} BlockPos{x=939, y=126, z=-364}
 [07Feb2025 18:47:19.192] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=939, y=126, z=-363} BlockPos{x=939, y=126, z=-364}
+[07Feb2025 18:49:29.323] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=926, y=121, z=-362} BlockPos{x=925, y=119, z=-365}
+[07Feb2025 18:49:34.197] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=930, y=123, z=-369} BlockPos{x=930, y=122, z=-369}
+[07Feb2025 18:49:34.244] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=930, y=123, z=-369} BlockPos{x=930, y=122, z=-369}
+[07Feb2025 18:49:45.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has made the advancement [RGB]
+[07Feb2025 18:50:14.795] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=947, y=123, z=-379} BlockPos{x=948, y=121, z=-379}
+[07Feb2025 18:50:19.027] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Feb2025 18:50:19.055] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Feb2025 18:50:45.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 933.500000, 112.500000, -354.500000]
+[07Feb2025 18:50:45.798] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming net/minecraft/world/inventory/GrindstoneMenu$1 (target of net/minecraft/world/Container)
+[07Feb2025 18:50:47.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 929.500000, 122.500000, -358.500000]
+[07Feb2025 18:50:52.840] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=932, y=122, z=-366} BlockPos{x=931, y=121, z=-367}
+[07Feb2025 18:51:00.101] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=929, y=121, z=-367} BlockPos{x=928, y=120, z=-367}
+[07Feb2025 18:51:01.843] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=928, y=119, z=-363} BlockPos{x=929, y=120, z=-364}
+[07Feb2025 18:51:07.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Eguaro]
+[07Feb2025 18:51:29.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 608.500000, 65.500000, -2731.500000]
+[07Feb2025 18:54:56.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 1297.500000, 214.500000, -2560.500000]
+[07Feb2025 18:54:56.279] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/30906, l='ServerLevel[world]', x=1301.56, y=62.52, z=-2575.05], dimensionLocationPath overworld
+[07Feb2025 18:54:56.279] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/30906, l='ServerLevel[world]', x=1301.56, y=62.52, z=-2575.05] in list []
+[07Feb2025 18:54:56.761] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ItemEntity['Torch'/30906, l='ServerLevel[world]', x=1301.56, y=62.53, z=-2575.05]
+[07Feb2025 18:54:56.915] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=613, y=76, z=-2728}
+[07Feb2025 18:54:56.915] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=613, y=76, z=-2729}
+[07Feb2025 18:55:19.012] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Feb2025 18:55:19.038] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Feb2025 18:55:46.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 839.500000, 112.500000, -424.500000]
+[07Feb2025 18:57:55.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 609.500000, 76.500000, -2734.500000]
+[07Feb2025 18:58:28.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 676.500000, 117.500000, -340.500000]
+[07Feb2025 18:58:29.582] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=613, y=76, z=-2728}
+[07Feb2025 18:58:29.582] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=613, y=76, z=-2729}
+[07Feb2025 18:58:48.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 839.500000, 112.500000, -424.500000]

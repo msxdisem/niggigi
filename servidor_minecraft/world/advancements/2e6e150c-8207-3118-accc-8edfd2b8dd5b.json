@@ -20531,6 +20531,12 @@
     },
     "done": false
   },
+  "supplementaries:recipes/decorations/biomesoplenty/sign_post_fir": {
+    "criteria": {
+      "has_planks": "2025-02-07 18:52:08 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/polished_deepslate_wall": {
     "criteria": {
       "has_polished_deepslate": "2025-02-07 18:04:41 +0000"
@@ -20544,9 +20550,27 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/fir_fence": {
+    "criteria": {
+      "has_planks": "2025-02-07 18:52:08 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/redstone/fir_door": {
+    "criteria": {
+      "has_planks": "2025-02-07 18:52:08 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-02-07 18:04:41 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/building_blocks/fir_wood": {
+    "criteria": {
+      "has_log": "2025-02-07 18:52:05 +0000"
     },
     "done": false
   },
@@ -20562,9 +20586,21 @@
     },
     "done": false
   },
+  "biomesoplenty:recipes/building_blocks/fir_slab": {
+    "criteria": {
+      "has_planks": "2025-02-07 18:52:08 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-02-07 18:04:41 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/decorations/fir_sign": {
+    "criteria": {
+      "has_planks": "2025-02-07 18:52:08 +0000"
     },
     "done": false
   },
@@ -20577,6 +20613,12 @@
   "minecraft:recipes/decorations/polished_deepslate_wall_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-02-07 18:04:41 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/redstone/fir_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-07 18:52:08 +0000"
     },
     "done": false
   },
@@ -20598,11 +20640,30 @@
     },
     "done": false
   },
+  "biomesoplenty:recipes/redstone/fir_button": {
+    "criteria": {
+      "has_planks": "2025-02-07 18:52:08 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/building_blocks/fir_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-07 18:52:08 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-02-07 18:04:41 +0000"
     },
     "done": false
+  },
+  "biomesoplenty:recipes/building_blocks/fir_planks": {
+    "criteria": {
+      "has_logs": "2025-02-07 18:52:05 +0000",
+      "has_the_recipe": "2025-02-07 18:52:08 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_polished_deepslate_stonecutting": {
     "criteria": {
@@ -20616,6 +20677,18 @@
     },
     "done": false
   },
+  "biomesoplenty:recipes/redstone/fir_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-07 18:52:08 +0000"
+    },
+    "done": false
+  },
+  "crystalcraft_unlimited_java:rgbcmyk": {
+    "criteria": {
+      "rgbcmyk_0": "2025-02-07 18:49:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-02-07 18:04:41 +0000"
@@ -20625,6 +20698,12 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-02-07 18:04:41 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/redstone/fir_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-07 18:52:08 +0000"
     },
     "done": false
   },

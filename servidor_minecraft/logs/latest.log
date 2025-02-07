@@ -5522,3 +5522,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Feb2025 20:00:54.380] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
 [07Feb2025 20:00:54.380] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
 [07Feb2025 20:00:54.380] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[07Feb2025 20:04:36.285] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=927, y=113, z=-465} BlockPos{x=922, y=111, z=-468}
+[07Feb2025 20:13:25.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Set the weather to clear]

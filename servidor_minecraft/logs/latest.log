@@ -81,3 +81,19 @@
 [08Feb2025 02:51:37.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Liraanto]
 [08Feb2025 02:52:55.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Gave 1 [Eternal Steak] to STRANJO]
 [08Feb2025 02:53:24.481] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[08Feb2025 02:53:43.305] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1051, y=-33, z=3487}
+[08Feb2025 02:53:43.305] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1052, y=-33, z=3487}
+[08Feb2025 02:53:46.759] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[08Feb2025 02:53:54.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Liraanto]
+[08Feb2025 02:54:22.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 649.500000, 108.500000, -340.500000]
+[08Feb2025 02:54:37.079] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1172, y=-34, z=3527}
+[08Feb2025 02:55:22.666] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-710, y=27, z=3525}
+[08Feb2025 02:56:19.141] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-845, y=-12, z=3573}
+[08Feb2025 02:56:19.146] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-846, y=-12, z=3573}
+[08Feb2025 02:58:38.141] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1264, y=-37, z=3383}
+[08Feb2025 03:00:37.511] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1160, y=-44, z=3688}
+[08Feb2025 03:01:03.161] [pool-5-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_oak], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_ocean], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_birch], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_mushroom], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_jungle], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy]] from pos BlockPos{x=-1403, y=82, z=3685}
+[08Feb2025 03:01:05.318] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1403, y=82, z=3685} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=true] at location
+[08Feb2025 03:01:05.319] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=true] but failed at location BlockPos{x=-1403, y=82, z=3685}
+[08Feb2025 03:01:13.697] [Worker-Main-94/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[08Feb2025 03:03:06.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 586.500000, 142.500000, -446.500000]

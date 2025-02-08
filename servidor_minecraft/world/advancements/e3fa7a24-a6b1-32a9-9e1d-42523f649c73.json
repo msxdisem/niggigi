@@ -15034,5 +15034,107 @@
     },
     "done": false
   },
+  "securitycraft:recipes/misc/cyan_lens": {
+    "criteria": {
+      "has_glass_pane": "2025-02-08 19:06:31 +0000"
+    },
+    "done": false
+  },
+  "securitycraft:recipes/misc/brown_lens": {
+    "criteria": {
+      "has_glass_pane": "2025-02-08 19:06:31 +0000"
+    },
+    "done": false
+  },
+  "securitycraft:recipes/misc/gray_lens": {
+    "criteria": {
+      "has_glass_pane": "2025-02-08 19:06:31 +0000"
+    },
+    "done": false
+  },
+  "securitycraft:recipes/misc/lens": {
+    "criteria": {
+      "has_glass_pane": "2025-02-08 19:06:31 +0000"
+    },
+    "done": false
+  },
+  "securitycraft:recipes/misc/green_lens": {
+    "criteria": {
+      "has_glass_pane": "2025-02-08 19:06:31 +0000"
+    },
+    "done": false
+  },
+  "securitycraft:recipes/misc/red_lens": {
+    "criteria": {
+      "has_glass_pane": "2025-02-08 19:06:31 +0000"
+    },
+    "done": false
+  },
+  "securitycraft:recipes/misc/purple_lens": {
+    "criteria": {
+      "has_glass_pane": "2025-02-08 19:06:31 +0000"
+    },
+    "done": false
+  },
+  "securitycraft:recipes/misc/light_blue_lens": {
+    "criteria": {
+      "has_glass_pane": "2025-02-08 19:06:31 +0000"
+    },
+    "done": false
+  },
+  "securitycraft:recipes/misc/lime_lens": {
+    "criteria": {
+      "has_glass_pane": "2025-02-08 19:06:31 +0000"
+    },
+    "done": false
+  },
+  "securitycraft:recipes/misc/blue_lens": {
+    "criteria": {
+      "has_glass_pane": "2025-02-08 19:06:31 +0000"
+    },
+    "done": false
+  },
+  "securitycraft:recipes/misc/pink_lens": {
+    "criteria": {
+      "has_glass_pane": "2025-02-08 19:06:31 +0000"
+    },
+    "done": false
+  },
+  "securitycraft:recipes/misc/magenta_lens": {
+    "criteria": {
+      "has_glass_pane": "2025-02-08 19:06:31 +0000"
+    },
+    "done": false
+  },
+  "securitycraft:recipes/misc/orange_lens": {
+    "criteria": {
+      "has_glass_pane": "2025-02-08 19:06:31 +0000"
+    },
+    "done": false
+  },
+  "securitycraft:recipes/misc/yellow_lens": {
+    "criteria": {
+      "has_glass_pane": "2025-02-08 19:06:31 +0000"
+    },
+    "done": false
+  },
+  "securitycraft:recipes/misc/light_gray_lens": {
+    "criteria": {
+      "has_glass_pane": "2025-02-08 19:06:31 +0000"
+    },
+    "done": false
+  },
+  "securitycraft:recipes/misc/white_lens": {
+    "criteria": {
+      "has_glass_pane": "2025-02-08 19:06:31 +0000"
+    },
+    "done": false
+  },
+  "securitycraft:recipes/misc/black_lens": {
+    "criteria": {
+      "has_glass_pane": "2025-02-08 19:06:31 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }

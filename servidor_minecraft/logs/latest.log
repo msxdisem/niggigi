@@ -55,3 +55,29 @@
 [08Feb2025 02:24:52.119] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: STRANJO moved wrongly!
 [08Feb2025 02:27:06.866] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/117137, l='ServerLevel[world]', x=898.51, y=148.00, z=-488.53] died, message: 'Unemployed was slain by STRANJO'
 [08Feb2025 02:27:06.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has made the advancement [Bad Deal]
+[08Feb2025 02:36:37.054] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:herobrine but it was marked as removed already
+[08Feb2025 02:37:04.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to -1066.500000, 75.500000, 2384.500000]
+[08Feb2025 02:38:42.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to -1139.500000, 72.500000, 2663.500000]
+[08Feb2025 02:40:32.530] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[08Feb2025 02:40:44.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to -1026.500000, 64.500000, 3022.500000]
+[08Feb2025 02:41:25.276] [Worker-Main-89/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-786, y=17, z=2783}
+[08Feb2025 02:41:39.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto died
+[08Feb2025 02:41:39.250] [Server thread/INFO] [tombstone/]: The player Liraanto has successfully been saved
+[08Feb2025 02:41:46.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to -958.500000, 64.500000, 2984.500000]
+[08Feb2025 02:42:03.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto died
+[08Feb2025 02:42:03.774] [Server thread/INFO] [tombstone/]: The player Liraanto has successfully been saved
+[08Feb2025 02:42:09.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to -951.500000, 65.500000, 2974.500000]
+[08Feb2025 02:44:42.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Liraanto]
+[08Feb2025 02:45:40.454] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1255, y=25, z=3290}
+[08Feb2025 02:46:22.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto was slain by Piglin Brute
+[08Feb2025 02:46:23.020] [Server thread/INFO] [tombstone/]: The player Liraanto has successfully been saved
+[08Feb2025 02:46:29.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to -993.500000, 64.500000, 2980.500000]
+[08Feb2025 02:48:24.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to -1139.500000, 72.500000, 2663.500000]
+[08Feb2025 02:48:35.575] [pool-5-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_mushroom], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_cherry], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_giant_taiga], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_jungle], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_badlands], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_mountains], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna]] from pos BlockPos{x=-1499, y=71, z=2853}
+[08Feb2025 02:48:37.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Liraanto]
+[08Feb2025 02:49:33.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to -1066.500000, 75.500000, 2384.500000]
+[08Feb2025 02:49:44.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Liraanto]
+[08Feb2025 02:51:06.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to -1025.500000, 64.500000, 3033.500000]
+[08Feb2025 02:51:37.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Liraanto]
+[08Feb2025 02:52:55.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Gave 1 [Eternal Steak] to STRANJO]
+[08Feb2025 02:53:24.481] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind

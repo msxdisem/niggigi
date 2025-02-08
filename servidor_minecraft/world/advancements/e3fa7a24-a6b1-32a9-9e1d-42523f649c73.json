@@ -5182,6 +5182,7 @@
       "minecraft:vindicator": "2024-12-29 04:06:03 +0000",
       "minecraft:magma_cube": "2025-01-17 19:41:42 +0000",
       "minecraft:spider": "2024-12-24 03:03:34 +0000",
+      "minecraft:piglin_brute": "2025-02-08 02:43:22 +0000",
       "minecraft:creeper": "2024-12-24 03:01:20 +0000",
       "minecraft:evoker": "2024-12-29 04:09:52 +0000",
       "minecraft:phantom": "2024-12-24 19:43:00 +0000",
@@ -5209,6 +5210,7 @@
       "minecraft:vindicator": "2024-12-29 04:06:03 +0000",
       "minecraft:magma_cube": "2025-01-17 19:41:42 +0000",
       "minecraft:spider": "2024-12-29 04:47:11 +0000",
+      "minecraft:piglin_brute": "2025-02-08 02:43:22 +0000",
       "minecraft:creeper": "2024-12-29 04:15:21 +0000",
       "minecraft:evoker": "2024-12-29 04:09:52 +0000",
       "minecraft:phantom": "2024-12-29 05:01:57 +0000",
@@ -14993,6 +14995,114 @@
   "iceandfire:recipes/combat/forest_troll_leather_helmet": {
     "criteria": {
       "has_item": "2025-01-29 04:10:56 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-08 02:53:22 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-08 02:53:22 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-08 02:53:22 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-08 02:53:22 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-08 02:53:22 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-08 02:53:22 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-08 02:53:22 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-08 02:53:22 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-08 02:53:22 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-08 02:53:22 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-08 02:53:22 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-08 02:53:22 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-02-08 02:40:09 +0000"
+    },
+    "done": false
+  },
+  "dungeons_arise:find_mushroom_village": {
+    "criteria": {
+      "location0": "2025-02-08 02:41:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-02-08 02:40:09 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-02-08 02:41:29 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-02-08 02:40:09 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/slicing/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-02-08 02:41:29 +0000"
     },
     "done": false
   },

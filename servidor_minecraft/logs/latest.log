@@ -120,3 +120,8 @@
 [08Feb2025 03:52:54.306] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
 [08Feb2025 03:53:37.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Liraanto]
 [08Feb2025 03:53:37.958] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 28682ms or 573 ticks behind
+[08Feb2025 03:57:32.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Set the time to 1000]
+[08Feb2025 04:04:10.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Liraanto]
+[08Feb2025 04:06:33.315] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: STRANJO lost connection: Disconnected
+[08Feb2025 04:06:33.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO left the game
+[08Feb2025 04:06:33.317] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand

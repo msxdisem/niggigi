@@ -49,3 +49,6 @@
 [08Feb2025 02:02:03.296] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=912, y=119, z=-477} BlockPos{x=911, y=119, z=-476}
 [08Feb2025 02:04:08.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Set the time to 1000]
 [08Feb2025 02:10:43.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 951.500000, 120.500000, -473.500000]
+[08Feb2025 02:13:16.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 941.500000, 120.500000, -458.500000]
+[08Feb2025 02:15:29.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 937.500000, 120.500000, -446.500000]
+[08Feb2025 02:21:35.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 694.500000, 108.500000, -364.500000]

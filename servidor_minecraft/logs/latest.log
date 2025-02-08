@@ -97,3 +97,4 @@
 [08Feb2025 03:01:05.319] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=true] but failed at location BlockPos{x=-1403, y=82, z=3685}
 [08Feb2025 03:01:13.697] [Worker-Main-94/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
 [08Feb2025 03:03:06.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 586.500000, 142.500000, -446.500000]
+[08Feb2025 03:10:46.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 586.500000, 142.500000, -446.500000]

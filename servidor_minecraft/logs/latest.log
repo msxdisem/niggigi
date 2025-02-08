@@ -99,3 +99,21 @@
 [08Feb2025 03:03:06.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 586.500000, 142.500000, -446.500000]
 [08Feb2025 03:10:46.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 586.500000, 142.500000, -446.500000]
 [08Feb2025 03:24:07.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 801.500000, 46.500000, -257.500000]
+[08Feb2025 03:25:43.358] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:herobrine but it was marked as removed already
+[08Feb2025 03:29:09.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 649.500000, 108.500000, -340.500000]
+[08Feb2025 03:29:33.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Liraanto> xaero-waypoint:andesita:A:-1690:59:1362:1:false:0:Internal-overworld-waypoints
+[08Feb2025 03:29:47.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -1689.500000, 59.500000, 1362.500000]
+[08Feb2025 03:29:53.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 586.500000, 142.500000, -446.500000]
+[08Feb2025 03:29:59.923] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1862, y=-7, z=1301}
+[08Feb2025 03:30:03.903] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1831, y=-14, z=1563}
+[08Feb2025 03:30:03.904] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1831, y=-14, z=1562}
+[08Feb2025 03:30:17.333] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1906, y=-30, z=1325}
+[08Feb2025 03:34:07.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Set own game mode to Creative Mode]
+[08Feb2025 03:35:36.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 649.500000, 108.500000, -340.500000]
+[08Feb2025 03:39:39.396] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[08Feb2025 03:40:29.289] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[08Feb2025 03:40:46.750] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2474ms or 49 ticks behind
+[08Feb2025 03:41:04.462] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2736ms or 54 ticks behind
+[08Feb2025 03:41:21.606] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2180ms or 43 ticks behind
+[08Feb2025 03:41:43.507] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6931ms or 138 ticks behind
+[08Feb2025 03:42:10.014] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11539ms or 230 ticks behind

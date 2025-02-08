@@ -20715,5 +20715,11 @@
     },
     "done": false
   },
+  "morevillagers:kill_villager": {
+    "criteria": {
+      "killedvillager": "2025-02-08 02:27:06 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

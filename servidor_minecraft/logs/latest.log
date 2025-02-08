@@ -52,3 +52,6 @@
 [08Feb2025 02:13:16.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 941.500000, 120.500000, -458.500000]
 [08Feb2025 02:15:29.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 937.500000, 120.500000, -446.500000]
 [08Feb2025 02:21:35.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 694.500000, 108.500000, -364.500000]
+[08Feb2025 02:24:52.119] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: STRANJO moved wrongly!
+[08Feb2025 02:27:06.866] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/117137, l='ServerLevel[world]', x=898.51, y=148.00, z=-488.53] died, message: 'Unemployed was slain by STRANJO'
+[08Feb2025 02:27:06.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has made the advancement [Bad Deal]

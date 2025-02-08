@@ -864,3 +864,33 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Feb2025 19:59:47.460] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3841ms or 76 ticks behind
 [08Feb2025 20:00:45.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has made the advancement [You Are A Pirate]
 [08Feb2025 20:03:21.745] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: STRANJO moved too quickly! 17.262146513087373,-0.652806524347028,-6.399329655837846
+[08Feb2025 20:05:56.254] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2566, y=28, z=-2396}
+[08Feb2025 20:05:56.255] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2568, y=28, z=-2393}
+[08Feb2025 20:05:56.255] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2568, y=28, z=-2395}
+[08Feb2025 20:05:56.318] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2559, y=27, z=-2389}
+[08Feb2025 20:05:56.318] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2557, y=27, z=-2392}
+[08Feb2025 20:07:33.413] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2129, y=34, z=-2226}
+[08Feb2025 20:07:33.413] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2129, y=34, z=-2227}
+[08Feb2025 20:07:51.381] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: STRANJO moved too quickly! 4.415197102691764,-2.195547322563158,17.622770312542798
+[08Feb2025 20:08:01.959] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2084, y=-5, z=-1837}
+[08Feb2025 20:08:05.748] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1933, y=23, z=-1804}
+[08Feb2025 20:08:08.493] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2058, y=1, z=-1787}
+[08Feb2025 20:08:13.590] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1896, y=21, z=-1733}
+[08Feb2025 20:08:14.351] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1793, y=23, z=-1735}
+[08Feb2025 20:08:14.775] [Worker-Main-54/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=1774, y=-19, z=-1827}
+[08Feb2025 20:08:14.775] [Worker-Main-54/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=1770, y=-19, z=-1825}
+[08Feb2025 20:08:17.558] [pool-5-thread-3/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_crimson], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_mountains], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_cherry], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_birch], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_giant_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga]] from pos BlockPos{x=1947, y=77, z=-1733}
+[08Feb2025 20:08:19.813] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1947, y=77, z=-1733} but found not block entity block Block{minecraft:stripped_spruce_log}[axis=y] at location
+[08Feb2025 20:08:19.813] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:stripped_spruce_log}[axis=y] but failed at location BlockPos{x=1947, y=77, z=-1733}
+[08Feb2025 20:08:21.906] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1907, y=36, z=-1681}
+[08Feb2025 20:08:21.907] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1909, y=36, z=-1681}
+[08Feb2025 20:08:22.245] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1985, y=-31, z=-1691}
+[08Feb2025 20:08:25.810] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1896, y=-8, z=-1668}
+[08Feb2025 20:08:28.796] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1705, y=-1, z=-1789}
+[08Feb2025 20:08:32.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 488.500000, 135.500000, 436.500000]
+[08Feb2025 20:09:52.774] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
+[08Feb2025 20:10:09.841] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: STRANJO moved too quickly! -13.006778901850225,-3.79695949011483,-11.664817995442831
+[08Feb2025 20:10:38.043] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: STRANJO moved wrongly!
+[08Feb2025 20:12:50.330] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=419, y=-25, z=1248}
+[08Feb2025 20:14:15.450] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=790, y=-46, z=1030}
+[08Feb2025 20:14:15.451] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=791, y=-46, z=1030}

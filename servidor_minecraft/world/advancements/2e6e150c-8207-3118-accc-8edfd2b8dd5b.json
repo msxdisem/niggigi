@@ -112,11 +112,13 @@
       "minecraft:snowy_slopes": "2025-01-25 23:17:59 +0000",
       "minecraft:old_growth_pine_taiga": "2024-12-31 23:07:22 +0000",
       "minecraft:deep_ocean": "2024-12-31 04:04:28 +0000",
+      "minecraft:eroded_badlands": "2025-02-08 20:05:48 +0000",
       "minecraft:frozen_river": "2025-01-25 23:19:43 +0000",
       "minecraft:cherry_grove": "2024-12-27 05:05:43 +0000",
       "minecraft:sunflower_plains": "2025-01-13 23:56:32 +0000",
       "minecraft:birch_forest": "2024-12-24 00:24:50 +0000",
       "minecraft:badlands": "2025-01-04 16:16:04 +0000",
+      "minecraft:savanna_plateau": "2025-02-08 20:05:58 +0000",
       "minecraft:beach": "2024-12-24 00:03:58 +0000",
       "minecraft:dark_forest": "2024-12-31 23:32:07 +0000",
       "minecraft:mangrove_swamp": "2025-01-04 16:15:22 +0000",
@@ -128,6 +130,7 @@
       "minecraft:dripstone_caves": "2024-12-31 23:22:03 +0000",
       "minecraft:snowy_taiga": "2025-01-25 23:27:41 +0000",
       "minecraft:grove": "2025-01-25 23:27:31 +0000",
+      "minecraft:swamp": "2025-02-08 20:08:57 +0000",
       "minecraft:jagged_peaks": "2024-12-31 23:31:06 +0000",
       "minecraft:cold_ocean": "2025-01-17 21:37:28 +0000",
       "minecraft:forest": "2024-12-24 00:04:34 +0000",
@@ -13047,6 +13050,7 @@
   },
   "repurposed_structures:pyramids": {
     "criteria": {
+      "in_pyramid_giant_tree_taiga": "2025-02-08 20:12:54 +0000",
       "in_pyramid_nether": "2024-12-30 02:17:11 +0000",
       "in_pyramid_jungle": "2024-12-31 23:44:45 +0000",
       "in_pyramid_snowy": "2025-01-25 23:25:50 +0000"
@@ -18453,9 +18457,10 @@
   },
   "dungeons_arise:find_illager_corsair_or_illager_galley": {
     "criteria": {
+      "location1": "2025-02-08 20:00:45 +0000",
       "location0": "2025-01-17 21:37:29 +0000"
     },
-    "done": false
+    "done": true
   },
   "iceandfire:recipes/combat/tide_teal_chestplate": {
     "criteria": {

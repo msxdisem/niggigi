@@ -1,1 +1,11 @@
 [08Feb2025 00:01:20.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Set the weather to clear]
+[08Feb2025 00:03:39.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 877.500000, 113.500000, -366.500000]
+[08Feb2025 00:03:48.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 883.500000, 124.500000, -362.500000]
+[08Feb2025 00:06:08.449] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=917, y=130, z=-484} BlockPos{x=917, y=130, z=-483}
+[08Feb2025 00:06:08.507] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=917, y=130, z=-484} BlockPos{x=917, y=130, z=-483}
+[08Feb2025 00:06:08.548] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=917, y=130, z=-484} BlockPos{x=917, y=130, z=-483}
+[08Feb2025 00:09:11.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Set the time to 1000]
+[08Feb2025 00:13:19.948] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=982, y=126, z=-452} BlockPos{x=982, y=126, z=-454}
+[08Feb2025 00:13:24.624] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=983, y=125, z=-459} BlockPos{x=982, y=123, z=-459}
+[08Feb2025 00:13:24.674] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=983, y=125, z=-459} BlockPos{x=982, y=123, z=-459}
+[08Feb2025 00:19:57.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Set the time to 1000]

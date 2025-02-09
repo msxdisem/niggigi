@@ -763,3 +763,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [09Feb2025 21:34:25.478] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: config sent
 [09Feb2025 21:34:44.326] [Server thread/INFO] [Jade/]: Syncing config to STRANJO (2e6e150c-8207-3118-accc-8edfd2b8dd5b)
 [09Feb2025 21:34:46.664] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 22741ms or 454 ticks behind
+[09Feb2025 21:46:20.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: The difficulty has been set to Peaceful]

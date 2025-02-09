@@ -765,3 +765,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [09Feb2025 23:13:33.189] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: config sent
 [09Feb2025 23:13:49.102] [Server thread/INFO] [Jade/]: Syncing config to STRANJO (2e6e150c-8207-3118-accc-8edfd2b8dd5b)
 [09Feb2025 23:13:51.077] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18777ms or 375 ticks behind
+[09Feb2025 23:25:06.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Set the time to 1000]

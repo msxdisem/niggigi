@@ -11514,9 +11514,10 @@
   },
   "minecraft:recipes/building_blocks/andesite_slab": {
     "criteria": {
-      "has_andesite": "2024-12-28 03:33:20 +0000"
+      "has_andesite": "2024-12-28 03:33:20 +0000",
+      "has_the_recipe": "2025-02-09 23:20:37 +0000"
     },
-    "done": false
+    "done": true
   },
   "mcwbridges:recipes/andesite_bridge_pier": {
     "criteria": {

@@ -12178,3 +12178,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [09Feb2025 23:30:16.660] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1302, l='ServerLevel[world]', x=909.73, y=123.00, z=-414.76], dimensionLocationPath overworld
 [09Feb2025 23:30:16.660] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1302, l='ServerLevel[world]', x=909.73, y=123.00, z=-414.76] in list []
 [09Feb2025 23:30:16.714] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1302, l='ServerLevel[world]', x=909.73, y=123.00, z=-414.74]
+[09Feb2025 23:33:31.750] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Feb2025 23:33:31.779] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Feb2025 23:35:31.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Set the time to 1000]
+[09Feb2025 23:35:35.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Set the weather to clear]
+[09Feb2025 23:38:31.748] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Feb2025 23:38:31.781] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Feb2025 23:38:47.367] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1302, l='ServerLevel[world]', x=931.64, y=130.00, z=-406.27], dimensionLocationPath overworld
+[09Feb2025 23:38:47.367] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1302, l='ServerLevel[world]', x=931.64, y=130.00, z=-406.27] in list []

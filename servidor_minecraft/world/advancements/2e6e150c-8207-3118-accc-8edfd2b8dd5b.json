@@ -14646,9 +14646,10 @@
   },
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
-      "has_blaze_powder": "2025-01-01 04:22:42 +0000"
+      "has_blaze_powder": "2025-01-01 04:22:42 +0000",
+      "has_the_recipe": "2025-02-09 14:50:49 +0000"
     },
-    "done": false
+    "done": true
   },
   "deeperdarker:main/enter_otherside": {
     "criteria": {
@@ -20742,6 +20743,36 @@
   "minecraft:recipes/redstone/redstone_lamp": {
     "criteria": {
       "has_glowstone": "2025-02-08 03:56:10 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-02-09 14:50:49 +0000"
+    },
+    "done": false
+  },
+  "securitycraft:recipes/misc/protecto": {
+    "criteria": {
+      "has_ender_eye": "2025-02-09 14:50:49 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/create_familiar_receptacle": {
+    "criteria": {
+      "has_receptacle_of_familiar": "2025-02-09 14:48:52 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/enchantments/enchantments/ender_mask": {
+    "criteria": {
+      "has_ender_eye": "2025-02-09 14:50:49 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-02-09 14:50:49 +0000"
     },
     "done": false
   },

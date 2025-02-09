@@ -790,3 +790,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [09Feb2025 14:34:02.308] [Server thread/INFO] [ShulkerBoxTooltip Plugins/]: [ShulkerBoxTooltip Plugins] Loading 1 plugin: shulkerboxtooltip
 [09Feb2025 14:34:02.311] [Server thread/INFO] [ShulkerBoxTooltip Plugins/]: [ShulkerBoxTooltip Plugins] Registered 7 providers for mod shulkerboxtooltip
 [09Feb2025 14:36:04.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 995.500000, 210.500000, -908.500000]
+[09Feb2025 14:39:55.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 839.500000, 112.500000, -424.500000]
+[09Feb2025 14:40:31.670] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=694, y=107, z=-376} BlockPos{x=696, y=53, z=-302}
+[09Feb2025 14:41:21.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 649.500000, 108.500000, -340.500000]
+[09Feb2025 14:42:23.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 699.500000, -7.500000, -252.500000]
+[09Feb2025 14:48:32.876] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:herobrine but it was marked as removed already
+[09Feb2025 14:48:52.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has made the advancement [Your First Receptacle]
+[09Feb2025 14:49:03.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 649.500000, 108.500000, -340.500000]
+[09Feb2025 14:54:56.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has made the advancement [A galaxy far far away...]

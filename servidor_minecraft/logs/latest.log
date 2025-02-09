@@ -768,3 +768,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [09Feb2025 23:25:06.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Set the time to 1000]
 [09Feb2025 23:35:31.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Set the time to 1000]
 [09Feb2025 23:35:35.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Set the weather to clear]
+[09Feb2025 23:46:32.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Set the time to 1000]
+[09Feb2025 23:46:38.126] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Liraanto[/100.109.72.127:58349] logged in with entity id 5427 at (588.0016572740248, 160.61129842918, -437.69056986466853)
+[09Feb2025 23:46:38.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto joined the game
+[09Feb2025 23:46:38.184] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: PLAYER_JOIN
+[09Feb2025 23:46:38.184] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: add_player wand
+[09Feb2025 23:46:38.184] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: config sent
+[09Feb2025 23:46:38.187] [Server thread/INFO] [Jade/]: Syncing config to Liraanto (e3fa7a24-a6b1-32a9-9e1d-42523f649c73)
+[09Feb2025 23:46:39.294] [Netty Epoll Server IO #4/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] Liraanto: protocol version: 2.0
+[09Feb2025 23:46:39.315] [Server thread/INFO] [ShulkerBoxTooltip Plugins/]: [ShulkerBoxTooltip Plugins] Loading 1 plugin: shulkerboxtooltip
+[09Feb2025 23:46:39.317] [Server thread/INFO] [ShulkerBoxTooltip Plugins/]: [ShulkerBoxTooltip Plugins] Registered 7 providers for mod shulkerboxtooltip

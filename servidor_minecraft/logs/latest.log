@@ -764,3 +764,29 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [09Feb2025 14:20:49.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has made the advancement [Suit Up]
 [09Feb2025 14:21:21.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has reached the goal [Greed may lead to loss]
 [09Feb2025 14:22:49.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 144.500000, -58.500000, 221.500000]
+[09Feb2025 14:27:13.609] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=92, y=-36, z=258} BlockPos{x=92, y=-39, z=258}
+[09Feb2025 14:27:13.781] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=92, y=-36, z=258} BlockPos{x=92, y=-39, z=258}
+[09Feb2025 14:27:14.891] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
+[09Feb2025 14:27:15.958] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=91, y=-38, z=259} BlockPos{x=91, y=-39, z=256}
+[09Feb2025 14:27:16.005] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=91, y=-38, z=259} BlockPos{x=91, y=-39, z=256}
+[09Feb2025 14:27:16.064] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=91, y=-38, z=259} BlockPos{x=91, y=-39, z=256}
+[09Feb2025 14:27:16.109] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=91, y=-38, z=259} BlockPos{x=91, y=-39, z=256}
+[09Feb2025 14:27:16.161] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=91, y=-38, z=260} BlockPos{x=91, y=-39, z=256}
+[09Feb2025 14:27:19.834] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=92, y=-39, z=264} BlockPos{x=92, y=-40, z=265}
+[09Feb2025 14:27:23.032] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=91, y=-38, z=259} BlockPos{x=90, y=-39, z=259}
+[09Feb2025 14:27:23.083] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=91, y=-38, z=259} BlockPos{x=90, y=-39, z=259}
+[09Feb2025 14:27:28.429] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=90, y=-37, z=261} BlockPos{x=90, y=-38, z=262}
+[09Feb2025 14:32:30.718] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=102, y=-39, z=248} BlockPos{x=101, y=-39, z=247}
+[09Feb2025 14:32:30.767] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=102, y=-39, z=248} BlockPos{x=101, y=-39, z=247}
+[09Feb2025 14:32:30.818] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=102, y=-39, z=248} BlockPos{x=101, y=-39, z=247}
+[09Feb2025 14:33:45.041] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
+[09Feb2025 14:34:00.931] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Liraanto[/100.109.72.127:56037] logged in with entity id 5146 at (569.710576580682, 155.5356025944466, -442.69999998807907)
+[09Feb2025 14:34:00.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto joined the game
+[09Feb2025 14:34:00.992] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: PLAYER_JOIN
+[09Feb2025 14:34:00.993] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: add_player wand
+[09Feb2025 14:34:00.993] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: config sent
+[09Feb2025 14:34:00.995] [Server thread/INFO] [Jade/]: Syncing config to Liraanto (e3fa7a24-a6b1-32a9-9e1d-42523f649c73)
+[09Feb2025 14:34:02.097] [Netty Epoll Server IO #4/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] Liraanto: protocol version: 2.0
+[09Feb2025 14:34:02.308] [Server thread/INFO] [ShulkerBoxTooltip Plugins/]: [ShulkerBoxTooltip Plugins] Loading 1 plugin: shulkerboxtooltip
+[09Feb2025 14:34:02.311] [Server thread/INFO] [ShulkerBoxTooltip Plugins/]: [ShulkerBoxTooltip Plugins] Registered 7 providers for mod shulkerboxtooltip
+[09Feb2025 14:36:04.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 995.500000, 210.500000, -908.500000]

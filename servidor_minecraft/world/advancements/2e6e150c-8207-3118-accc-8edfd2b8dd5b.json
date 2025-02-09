@@ -12006,9 +12006,10 @@
   },
   "minecraft:recipes/building_blocks/dark_oak_slab": {
     "criteria": {
+      "has_the_recipe": "2025-02-09 15:25:56 +0000",
       "has_planks": "2024-12-29 05:04:45 +0000"
     },
-    "done": false
+    "done": true
   },
   "cfm:recipes/decorations/dark_oak_bedside_cabinet": {
     "criteria": {
@@ -12066,9 +12067,10 @@
   },
   "minecraft:recipes/redstone/dark_oak_trapdoor": {
     "criteria": {
+      "has_the_recipe": "2025-02-09 15:24:26 +0000",
       "has_planks": "2024-12-29 05:04:45 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
@@ -12092,9 +12094,10 @@
   },
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
+      "has_the_recipe": "2025-02-09 15:26:50 +0000",
       "has_planks": "2024-12-29 05:04:45 +0000"
     },
-    "done": false
+    "done": true
   },
   "mcwbridges:recipes/rope_dark_oak_bridge": {
     "criteria": {
@@ -13250,9 +13253,10 @@
   },
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
-      "has_log": "2024-12-31 01:02:58 +0000"
+      "has_log": "2024-12-31 01:02:58 +0000",
+      "has_the_recipe": "2025-02-09 15:23:41 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
     "criteria": {
@@ -20746,9 +20750,21 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab": {
+    "criteria": {
+      "has_smooth_quartz": "2025-02-09 15:17:02 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_ender_eye": "2025-02-09 14:50:49 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/light_gray_picket_gate": {
+    "criteria": {
+      "has_concrete": "2025-02-09 15:17:03 +0000"
     },
     "done": false
   },
@@ -20763,6 +20779,18 @@
       "has_receptacle_of_familiar": "2025-02-09 14:48:52 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2025-02-09 15:17:02 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/light_gray_picket_fence": {
+    "criteria": {
+      "has_concrete": "2025-02-09 15:17:03 +0000"
+    },
+    "done": false
   },
   "l2complements:recipes/enchantments/enchantments/ender_mask": {
     "criteria": {
@@ -20781,6 +20809,18 @@
       "coded_trigger": "2025-02-09 14:21:21 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
+    "criteria": {
+      "has_smooth_quartz": "2025-02-09 15:17:02 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2025-02-09 15:17:02 +0000"
+    },
+    "done": false
   },
   "crystalcraft_unlimited_java:cyber_crystal_advancement": {
     "criteria": {

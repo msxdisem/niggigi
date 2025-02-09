@@ -806,3 +806,20 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [09Feb2025 16:58:10.063] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Liraanto lost connection: Disconnected
 [09Feb2025 16:58:10.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto left the game
 [09Feb2025 16:58:10.064] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
+[09Feb2025 16:59:10.948] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Liraanto[/100.109.72.127:56321] logged in with entity id 28310 at (581.0872551918159, 160.1990014135834, -434.4951100058782)
+[09Feb2025 16:59:10.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto joined the game
+[09Feb2025 16:59:10.994] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: PLAYER_JOIN
+[09Feb2025 16:59:10.994] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: add_player wand
+[09Feb2025 16:59:10.994] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: config sent
+[09Feb2025 16:59:10.998] [Server thread/INFO] [Jade/]: Syncing config to Liraanto (e3fa7a24-a6b1-32a9-9e1d-42523f649c73)
+[09Feb2025 16:59:12.231] [Netty Epoll Server IO #5/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] Liraanto: protocol version: 2.0
+[09Feb2025 17:00:47.209] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Liraanto lost connection: Disconnected
+[09Feb2025 17:00:47.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto left the game
+[09Feb2025 17:00:47.209] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
+[09Feb2025 17:02:20.529] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Liraanto[/100.109.72.127:56360] logged in with entity id 28736 at (582.0619737550069, 160.1990014135834, -437.81906364279433)
+[09Feb2025 17:02:20.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto joined the game
+[09Feb2025 17:02:20.573] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: PLAYER_JOIN
+[09Feb2025 17:02:20.573] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: add_player wand
+[09Feb2025 17:02:20.573] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: config sent
+[09Feb2025 17:02:20.575] [Server thread/INFO] [Jade/]: Syncing config to Liraanto (e3fa7a24-a6b1-32a9-9e1d-42523f649c73)
+[09Feb2025 17:02:22.958] [Netty Epoll Server IO #6/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] Liraanto: protocol version: 2.0

@@ -11463,9 +11463,10 @@
   },
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
-      "has_andesite": "2024-12-28 03:33:20 +0000"
+      "has_andesite": "2024-12-28 03:33:20 +0000",
+      "has_the_recipe": "2025-02-09 15:58:46 +0000"
     },
-    "done": false
+    "done": true
   },
   "mcwbridges:recipes/balustrade_andesite_bridge": {
     "criteria": {
@@ -11505,9 +11506,10 @@
   },
   "minecraft:recipes/decorations/andesite_wall": {
     "criteria": {
-      "has_andesite": "2024-12-28 03:33:20 +0000"
+      "has_andesite": "2024-12-28 03:33:20 +0000",
+      "has_the_recipe": "2025-02-09 15:50:22 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/andesite_slab": {
     "criteria": {

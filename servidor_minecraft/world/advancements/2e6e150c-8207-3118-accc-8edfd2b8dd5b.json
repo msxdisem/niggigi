@@ -20782,5 +20782,11 @@
     },
     "done": true
   },
+  "crystalcraft_unlimited_java:cyber_crystal_advancement": {
+    "criteria": {
+      "cyber_crystal_advancement_0": "2025-02-09 14:54:56 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

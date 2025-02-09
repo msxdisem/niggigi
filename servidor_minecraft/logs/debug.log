@@ -14113,3 +14113,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [09Feb2025 14:54:03.252] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [09Feb2025 14:54:56.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has made the advancement [A galaxy far far away...]
 [09Feb2025 14:55:22.219] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming net/p3pp3rf1y/sophisticatedbackpacks/upgrades/inception/InceptionInventoryHandler (target of net/minecraftforge/items/IItemHandler)
+[09Feb2025 14:59:03.202] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Feb2025 14:59:03.231] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Feb2025 15:04:03.210] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Feb2025 15:04:03.236] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

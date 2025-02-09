@@ -802,3 +802,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [09Feb2025 15:51:09.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 845.500000, 112.500000, -416.500000]
 [09Feb2025 16:06:12.264] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=971, y=115, z=-393} BlockPos{x=971, y=116, z=-393}
 [09Feb2025 16:26:58.670] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=911, y=117, z=-403} BlockPos{x=925, y=117, z=-452}
+[09Feb2025 16:50:54.366] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=908, y=116, z=-401} BlockPos{x=909, y=115, z=-436}
+[09Feb2025 16:58:10.063] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Liraanto lost connection: Disconnected
+[09Feb2025 16:58:10.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto left the game
+[09Feb2025 16:58:10.064] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand

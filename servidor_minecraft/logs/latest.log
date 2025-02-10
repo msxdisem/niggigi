@@ -24,3 +24,13 @@
 [10Feb2025 01:46:59.670] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: STRANJO lost connection: Disconnected
 [10Feb2025 01:46:59.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO left the game
 [10Feb2025 01:46:59.671] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
+[10Feb2025 01:58:55.163] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Liraanto lost connection: Disconnected
+[10Feb2025 01:58:55.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto left the game
+[10Feb2025 01:58:55.164] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
+[10Feb2025 02:03:07.343] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Liraanto[/100.109.72.127:59058] logged in with entity id 23772 at (594.1013900759283, 165.3593367703621, -439.40745124378066)
+[10Feb2025 02:03:07.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto joined the game
+[10Feb2025 02:03:07.391] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: PLAYER_JOIN
+[10Feb2025 02:03:07.392] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: add_player wand
+[10Feb2025 02:03:07.392] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: config sent
+[10Feb2025 02:03:07.399] [Server thread/INFO] [Jade/]: Syncing config to Liraanto (e3fa7a24-a6b1-32a9-9e1d-42523f649c73)
+[10Feb2025 02:03:09.461] [Netty Epoll Server IO #6/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] Liraanto: protocol version: 2.0

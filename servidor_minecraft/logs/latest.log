@@ -1,3 +1,22 @@
 [10Feb2025 00:12:22.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: The difficulty has been set to Peaceful]
 [10Feb2025 00:35:37.821] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=924, y=126, z=-426} BlockPos{x=921, y=124, z=-412}
 [10Feb2025 00:35:48.020] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=921, y=123, z=-412} BlockPos{x=925, y=124, z=-405}
+[10Feb2025 01:09:25.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 3430.500000, 75.500000, -5625.500000]
+[10Feb2025 01:09:58.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 3359.500000, 63.500000, -5468.500000]
+[10Feb2025 01:10:02.932] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=3236, y=26, z=-5354}
+[10Feb2025 01:10:14.690] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=3565, y=23, z=-5376}
+[10Feb2025 01:10:28.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 5537.500000, 89.500000, -1712.500000]
+[10Feb2025 01:10:28.528] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6028ms or 120 ticks behind
+[10Feb2025 01:11:01.392] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=5685, y=-24, z=-1838}
+[10Feb2025 01:11:35.281] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=5903, y=10, z=-2045}
+[10Feb2025 01:11:40.989] [Worker-Main-77/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=5839, y=-20, z=-2144}
+[10Feb2025 01:11:40.990] [Worker-Main-77/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=5840, y=-20, z=-2144}
+[10Feb2025 01:11:40.990] [Worker-Main-77/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=5840, y=-19, z=-2144}
+[10Feb2025 01:11:40.990] [Worker-Main-77/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=5841, y=-20, z=-2144}
+[10Feb2025 01:11:40.990] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=5838, y=-20, z=-2145}
+[10Feb2025 01:12:25.573] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=5832, y=19, z=-2364}
+[10Feb2025 01:12:25.573] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=5832, y=19, z=-2363}
+[10Feb2025 01:14:53.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 495.500000, 80.000000, 357.500000]
+[10Feb2025 01:15:04.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 462.500000, 116.500000, 373.500000]
+[10Feb2025 01:15:56.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 277.500000, 80.000000, 370.500000]
+[10Feb2025 01:17:37.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 845.500000, 112.500000, -416.500000]

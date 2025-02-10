@@ -4946,7 +4946,8 @@
   },
   "cfm:recipes/decorations/stripped_spruce_kitchen_counter": {
     "criteria": {
-      "has_log": "2024-12-24 00:28:55 +0000"
+      "has_log": "2024-12-24 00:28:55 +0000",
+      "has_planks": "2025-02-10 01:36:45 +0000"
     },
     "done": false
   },
@@ -4973,24 +4974,28 @@
   },
   "cfm:recipes/decorations/stripped_spruce_park_bench": {
     "criteria": {
-      "has_log": "2024-12-24 00:28:55 +0000"
+      "has_log": "2024-12-24 00:28:55 +0000",
+      "has_planks": "2025-02-10 01:36:45 +0000"
     },
     "done": false
   },
   "cfm:recipes/decorations/stripped_spruce_cabinet": {
     "criteria": {
-      "has_log": "2024-12-24 00:28:55 +0000"
+      "has_log": "2024-12-24 00:28:55 +0000",
+      "has_planks": "2025-02-10 01:36:45 +0000"
     },
     "done": false
   },
   "cfm:recipes/decorations/stripped_spruce_coffee_table": {
     "criteria": {
+      "has_log": "2025-02-10 01:36:45 +0000",
       "has_planks": "2024-12-24 00:28:55 +0000"
     },
     "done": false
   },
   "cfm:recipes/decorations/stripped_spruce_chair": {
     "criteria": {
+      "has_log": "2025-02-10 01:36:45 +0000",
       "has_planks": "2024-12-24 00:28:55 +0000"
     },
     "done": false
@@ -5010,6 +5015,7 @@
   },
   "cfm:recipes/decorations/stripped_spruce_table": {
     "criteria": {
+      "has_log": "2025-02-10 01:36:45 +0000",
       "has_planks": "2024-12-24 00:28:55 +0000"
     },
     "done": false
@@ -5022,6 +5028,7 @@
   },
   "cfm:recipes/decorations/stripped_spruce_crate": {
     "criteria": {
+      "has_log": "2025-02-10 01:36:45 +0000",
       "has_planks": "2024-12-24 00:28:55 +0000"
     },
     "done": false
@@ -5081,6 +5088,7 @@
   },
   "cfm:recipes/decorations/stripped_spruce_desk": {
     "criteria": {
+      "has_log": "2025-02-10 01:36:45 +0000",
       "has_planks": "2024-12-24 00:28:55 +0000"
     },
     "done": false
@@ -5088,12 +5096,14 @@
   "cfm:recipes/decorations/stripped_spruce_kitchen_drawer": {
     "criteria": {
       "has_log": "2024-12-24 00:28:55 +0000",
-      "has_chest": "2024-12-28 03:32:32 +0000"
+      "has_chest": "2024-12-28 03:32:32 +0000",
+      "has_planks": "2025-02-10 01:36:45 +0000"
     },
     "done": false
   },
   "cfm:recipes/decorations/stripped_spruce_desk_cabinet": {
     "criteria": {
+      "has_log": "2025-02-10 01:36:45 +0000",
       "has_planks": "2024-12-24 00:28:55 +0000"
     },
     "done": false
@@ -5108,6 +5118,7 @@
   },
   "cfm:recipes/decorations/stripped_spruce_bedside_cabinet": {
     "criteria": {
+      "has_log": "2025-02-10 01:36:45 +0000",
       "has_planks": "2024-12-24 00:28:55 +0000"
     },
     "done": false
@@ -5788,6 +5799,7 @@
   },
   "cfm:recipes/decorations/stripped_spruce_kitchen_sink_light": {
     "criteria": {
+      "has_bottom": "2025-02-10 01:36:45 +0000",
       "has_bucket": "2024-12-24 00:35:37 +0000",
       "has_top": "2024-12-31 22:45:12 +0000"
     },
@@ -5995,6 +6007,7 @@
   },
   "cfm:recipes/decorations/stripped_spruce_kitchen_sink_dark": {
     "criteria": {
+      "has_bottom": "2025-02-10 01:36:45 +0000",
       "has_bucket": "2024-12-24 00:35:37 +0000"
     },
     "done": false
@@ -20857,6 +20870,12 @@
     },
     "done": false
   },
+  "cfm:recipes/decorations/stripped_spruce_upgraded_gate": {
+    "criteria": {
+      "has_log": "2025-02-10 01:36:45 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
     "criteria": {
       "has_deepslate_tiles": "2025-02-09 23:54:45 +0000"
@@ -20869,6 +20888,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-02-10 01:36:45 +0000"
+    },
+    "done": false
+  },
   "mcwbridges:recipes/deepslate_tile_bridge_pier": {
     "criteria": {
       "has_planks": "2025-02-09 23:54:45 +0000"
@@ -20878,6 +20903,12 @@
   "mcwbridges:recipes/deepslate_tile_bridge": {
     "criteria": {
       "has_planks": "2025-02-09 23:54:45 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/stripped_spruce_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-02-10 01:36:45 +0000"
     },
     "done": false
   },
@@ -20911,9 +20942,21 @@
     },
     "done": false
   },
+  "cfm:recipes/decorations/stripped_spruce_blinds": {
+    "criteria": {
+      "has_log": "2025-02-10 01:36:45 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
     "criteria": {
       "has_log": "2025-02-10 00:24:49 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-02-10 01:36:45 +0000"
     },
     "done": false
   },

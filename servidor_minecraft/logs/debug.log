@@ -13295,3 +13295,16 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Feb2025 01:42:28.922] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1302, l='ServerLevel[world]', x=928.70, y=130.00, z=-415.35], dimensionLocationPath overworld
 [10Feb2025 01:42:28.922] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1302, l='ServerLevel[world]', x=928.70, y=130.00, z=-415.35] in list []
 [10Feb2025 01:42:28.971] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1302, l='ServerLevel[world]', x=928.70, y=130.00, z=-415.35]
+[10Feb2025 01:43:34.368] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1302, l='ServerLevel[world]', x=929.09, y=130.00, z=-415.31], dimensionLocationPath overworld
+[10Feb2025 01:43:34.368] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1302, l='ServerLevel[world]', x=929.09, y=130.00, z=-415.31] in list []
+[10Feb2025 01:43:34.420] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1302, l='ServerLevel[world]', x=928.91, y=130.00, z=-415.33]
+[10Feb2025 01:43:36.575] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1302, l='ServerLevel[world]', x=930.52, y=131.00, z=-416.01], dimensionLocationPath overworld
+[10Feb2025 01:43:36.575] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1302, l='ServerLevel[world]', x=930.52, y=131.00, z=-416.01] in list []
+[10Feb2025 01:43:36.675] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1302, l='ServerLevel[world]', x=930.53, y=131.00, z=-416.04]
+[10Feb2025 01:43:37.751] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Feb2025 01:43:37.775] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Feb2025 01:46:59.670] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: STRANJO lost connection: Disconnected
+[10Feb2025 01:46:59.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO left the game
+[10Feb2025 01:46:59.671] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
+[10Feb2025 01:48:37.703] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Feb2025 01:48:37.732] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

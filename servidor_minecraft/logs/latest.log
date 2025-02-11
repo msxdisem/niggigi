@@ -1030,3 +1030,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [11Feb2025 22:19:09.475] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=993, y=114, z=-341} BlockPos{x=993, y=113, z=-340}
 [11Feb2025 22:21:02.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 943.500000, 113.500000, -363.500000]
 [11Feb2025 22:28:22.039] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=988, y=118, z=-457} BlockPos{x=987, y=111, z=-437}
+[11Feb2025 22:40:19.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 854.500000, 113.500000, -485.500000]
+[11Feb2025 22:42:17.561] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2653ms or 53 ticks behind
+[11Feb2025 22:43:04.893] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2185ms or 43 ticks behind
+[11Feb2025 22:45:48.650] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
+[11Feb2025 22:46:12.410] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8802ms or 176 ticks behind

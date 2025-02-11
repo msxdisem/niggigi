@@ -9835,9 +9835,10 @@
   },
   "minecraft:recipes/building_blocks/deepslate_brick_slab": {
     "criteria": {
+      "has_the_recipe": "2025-02-11 03:41:07 +0000",
       "has_deepslate_bricks": "2025-01-14 17:55:13 +0000"
     },
-    "done": false
+    "done": true
   },
   "mcwbridges:recipes/deepslate_brick_bridge_pier": {
     "criteria": {

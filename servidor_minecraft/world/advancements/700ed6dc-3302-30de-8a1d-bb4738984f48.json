@@ -14412,9 +14412,10 @@
   },
   "biomesoplenty:recipes/building_blocks/redwood_stairs": {
     "criteria": {
+      "has_the_recipe": "2025-02-11 03:11:11 +0000",
       "has_planks": "2025-01-26 04:40:00 +0000"
     },
-    "done": false
+    "done": true
   },
   "mcwbridges:recipes/rope_warped_bridge": {
     "criteria": {

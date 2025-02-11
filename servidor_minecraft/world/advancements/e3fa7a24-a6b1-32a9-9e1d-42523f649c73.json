@@ -15136,5 +15136,17 @@
     },
     "done": false
   },
+  "bosses_of_mass_destruction:recipes/charged_ender_pearl": {
+    "criteria": {
+      "has_void_thorn": "2025-02-11 03:11:00 +0000"
+    },
+    "done": false
+  },
+  "bosses_of_mass_destruction:recipes/earthdive_spear": {
+    "criteria": {
+      "has_void_thorn": "2025-02-11 03:11:00 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }

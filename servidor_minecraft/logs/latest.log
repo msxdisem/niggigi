@@ -794,3 +794,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [11Feb2025 02:38:34.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 4882.500000, 87.500000, -6524.500000]
 [11Feb2025 02:39:02.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 5320.500000, 65.500000, -6818.500000]
 [11Feb2025 02:39:42.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 839.500000, 112.500000, -424.500000]
+[11Feb2025 02:45:57.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 676.500000, 117.500000, -340.500000]
+[11Feb2025 02:46:49.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 4992.500000, 89.500000, -6721.500000]
+[11Feb2025 02:47:31.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 4949.500000, 85.500000, -6644.500000]
+[11Feb2025 02:49:01.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 4946.500000, 76.500000, -6643.500000]
+[11Feb2025 02:52:42.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 839.500000, 112.500000, -424.500000]

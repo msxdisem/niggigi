@@ -7124,7 +7124,8 @@
   },
   "cfm:recipes/decorations/spruce_upgraded_gate": {
     "criteria": {
-      "has_log": "2025-01-14 02:17:04 +0000"
+      "has_log": "2025-01-14 02:17:04 +0000",
+      "has_gate": "2025-02-11 02:48:21 +0000"
     },
     "done": false
   },
@@ -9692,7 +9693,8 @@
   },
   "cfm:recipes/decorations/oak_upgraded_gate": {
     "criteria": {
-      "has_log": "2025-01-14 17:42:15 +0000"
+      "has_log": "2025-01-14 17:42:15 +0000",
+      "has_gate": "2025-02-11 02:48:21 +0000"
     },
     "done": false
   },
@@ -12323,7 +12325,8 @@
   },
   "cfm:recipes/decorations/brown_picket_gate": {
     "criteria": {
-      "has_concrete": "2025-01-20 02:00:20 +0000"
+      "has_concrete": "2025-01-20 02:00:20 +0000",
+      "has_gate": "2025-02-11 02:48:21 +0000"
     },
     "done": false
   },
@@ -13279,7 +13282,8 @@
   },
   "cfm:recipes/decorations/stripped_birch_upgraded_gate": {
     "criteria": {
-      "has_log": "2025-01-20 03:58:31 +0000"
+      "has_log": "2025-01-20 03:58:31 +0000",
+      "has_gate": "2025-02-11 02:48:21 +0000"
     },
     "done": false
   },
@@ -13781,7 +13785,8 @@
   },
   "cfm:recipes/decorations/jungle_upgraded_gate": {
     "criteria": {
-      "has_log": "2025-01-26 04:35:37 +0000"
+      "has_log": "2025-01-26 04:35:37 +0000",
+      "has_gate": "2025-02-11 02:48:21 +0000"
     },
     "done": false
   },
@@ -14002,7 +14007,8 @@
   },
   "cfm:recipes/decorations/warped_upgraded_gate": {
     "criteria": {
-      "has_log": "2025-01-26 04:35:38 +0000"
+      "has_log": "2025-01-26 04:35:38 +0000",
+      "has_gate": "2025-02-11 02:48:21 +0000"
     },
     "done": false
   },
@@ -14015,7 +14021,8 @@
   },
   "cfm:recipes/decorations/mangrove_upgraded_gate": {
     "criteria": {
-      "has_log": "2025-01-26 04:35:40 +0000"
+      "has_log": "2025-01-26 04:35:40 +0000",
+      "has_gate": "2025-02-11 02:48:21 +0000"
     },
     "done": false
   },
@@ -15218,15 +15225,100 @@
     },
     "done": false
   },
+  "cfm:recipes/decorations/stripped_spruce_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-02-11 02:48:21 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/purple_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-02-11 02:48:21 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/light_gray_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-02-11 02:48:21 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/stripped_warped_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-02-11 02:48:21 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/birch_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-02-11 02:48:21 +0000"
+    },
+    "done": false
+  },
   "cfm:recipes/decorations/stripped_mangrove_blinds": {
     "criteria": {
       "has_log": "2025-02-11 02:37:49 +0000"
     },
     "done": false
   },
+  "cfm:recipes/decorations/gray_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-02-11 02:48:21 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/stripped_acacia_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-02-11 02:48:21 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/dark_oak_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-02-11 02:48:21 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/white_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-02-11 02:48:21 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/red_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-02-11 02:48:21 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/yellow_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-02-11 02:48:21 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/stripped_jungle_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-02-11 02:48:21 +0000"
+    },
+    "done": false
+  },
   "cfm:recipes/decorations/stripped_mangrove_upgraded_gate": {
     "criteria": {
-      "has_log": "2025-02-11 02:37:49 +0000"
+      "has_log": "2025-02-11 02:37:49 +0000",
+      "has_gate": "2025-02-11 02:48:21 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/magenta_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-02-11 02:48:21 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/lime_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-02-11 02:48:21 +0000"
     },
     "done": false
   },
@@ -15236,9 +15328,81 @@
     },
     "done": false
   },
+  "cfm:recipes/decorations/stripped_oak_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-02-11 02:48:21 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/light_blue_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-02-11 02:48:21 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/green_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-02-11 02:48:21 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/black_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-02-11 02:48:21 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/blue_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-02-11 02:48:21 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-02-11 02:48:21 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/crimson_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-02-11 02:48:21 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/orange_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-02-11 02:48:21 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/mangrove_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-02-11 02:37:49 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/pink_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-02-11 02:48:21 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/acacia_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-02-11 02:48:21 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/cyan_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-02-11 02:48:21 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/stripped_crimson_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-02-11 02:48:21 +0000"
     },
     "done": false
   },

@@ -854,3 +854,95 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [11Feb2025 21:15:27.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Liraanto> dime
 [11Feb2025 21:15:34.736] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=945, y=128, z=-320} BlockPos{x=944, y=127, z=-320}
 [11Feb2025 21:15:34.791] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=945, y=128, z=-320} BlockPos{x=944, y=127, z=-320}
+[11Feb2025 21:16:13.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> me leíste
+[11Feb2025 21:16:36.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> ?
+[11Feb2025 21:16:39.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto has completed the challenge [Almost Unkillable]
+[11Feb2025 21:16:39.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto died
+[11Feb2025 21:16:39.172] [Server thread/INFO] [tombstone/]: The player Liraanto has successfully been saved
+[11Feb2025 21:16:46.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 881.500000, 113.500000, -426.500000]
+[11Feb2025 21:16:59.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Liraanto> si te leí
+[11Feb2025 21:17:09.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Liraanto> estaba intentado matar unos weones
+[11Feb2025 21:17:11.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> a yaya
+[11Feb2025 21:17:16.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> cmo t emorist ksljdklasjd
+[11Feb2025 21:17:37.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Liraanto> me explotaron de esas weas amarillas
+[11Feb2025 21:17:43.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> aaa
+[11Feb2025 21:17:50.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> el semen underterra
+[11Feb2025 21:20:31.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Set the time to 1000]
+[11Feb2025 21:21:23.769] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1444, y=0, z=-337}
+[11Feb2025 21:21:28.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 1308.500000, 134.500000, -118.500000]
+[11Feb2025 21:21:37.530] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1461, y=-10, z=-53}
+[11Feb2025 21:21:37.530] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1463, y=-10, z=-53}
+[11Feb2025 21:22:46.658] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/31169, l='ServerLevel[world]', x=1397.71, y=120.00, z=58.30] died, message: 'Unemployed burned to death'
+[11Feb2025 21:22:50.685] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1384, y=-30, z=128}
+[11Feb2025 21:22:50.686] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1384, y=-30, z=128}
+[11Feb2025 21:22:50.686] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1384, y=-30, z=128}
+[11Feb2025 21:22:50.941] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1570, y=17, z=127}
+[11Feb2025 21:22:51.750] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Hunter'/31158, l='ServerLevel[world]', x=1406.99, y=118.00, z=54.11] died, message: 'Hunter burned to death'
+[11Feb2025 21:22:52.647] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/31167, l='ServerLevel[world]', x=1379.56, y=120.00, z=52.53] died, message: 'Unemployed burned to death'
+[11Feb2025 21:22:53.110] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/31164, l='ServerLevel[world]', x=1387.58, y=120.00, z=50.89] died, message: 'Unemployed burned to death'
+[11Feb2025 21:22:54.042] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/31257, l='ServerLevel[world]', x=1383.28, y=119.00, z=63.65] died, message: 'Nitwit burned to death'
+[11Feb2025 21:22:54.484] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Florist'/31254, l='ServerLevel[world]', x=1388.98, y=119.00, z=69.79] died, message: 'Florist burned to death'
+[11Feb2025 21:22:54.485] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/31255, l='ServerLevel[world]', x=1386.93, y=118.94, z=63.66] died, message: 'Unemployed burned to death'
+[11Feb2025 21:22:55.562] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/31239, l='ServerLevel[world]', x=1394.66, y=118.94, z=65.65] died, message: 'Unemployed burned to death'
+[11Feb2025 21:22:57.090] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Hunter'/31252, l='ServerLevel[world]', x=1387.17, y=119.00, z=68.36] died, message: 'Hunter burned to death'
+[11Feb2025 21:23:00.409] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Florist'/31253, l='ServerLevel[world]', x=1393.70, y=120.42, z=73.50] died, message: 'Florist burned to death'
+[11Feb2025 21:23:00.410] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Florist'/31256, l='ServerLevel[world]', x=1393.55, y=120.25, z=50.23] died, message: 'Florist burned to death'
+[11Feb2025 21:23:04.401] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/31161, l='ServerLevel[world]', x=1398.75, y=120.62, z=63.79] died, message: 'Unemployed was slain by Fire Dragon'
+[11Feb2025 21:23:10.187] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Florist'/31249, l='ServerLevel[world]', x=1386.30, y=118.94, z=75.30] died, message: 'Florist was slain by Fire Dragon'
+[11Feb2025 21:23:14.059] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Forester'/31248, l='ServerLevel[world]', x=1382.72, y=118.94, z=76.32] died, message: 'Forester was turned into KFC by Fire Dragon'
+[11Feb2025 21:23:27.187] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[11Feb2025 21:23:33.061] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1779, y=-50, z=-56}
+[11Feb2025 21:23:36.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> oie
+[11Feb2025 21:23:41.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Liraanto> dime
+[11Feb2025 21:23:44.172] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[11Feb2025 21:23:46.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> teni algún bioma donde haya roble oscuro?
+[11Feb2025 21:24:12.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Liraanto> creo que no
+[11Feb2025 21:24:22.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Liraanto> una vez busqué y no encontré
+[11Feb2025 21:24:27.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> shit
+[11Feb2025 21:24:47.242] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1695, y=-19, z=170}
+[11Feb2025 21:24:47.243] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1695, y=-19, z=171}
+[11Feb2025 21:25:15.361] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2040, y=7, z=-88}
+[11Feb2025 21:25:45.518] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=945, y=129, z=-330} BlockPos{x=947, y=129, z=-333}
+[11Feb2025 21:25:45.560] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=944, y=129, z=-332} BlockPos{x=947, y=129, z=-333}
+[11Feb2025 21:25:45.645] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=944, y=129, z=-331} BlockPos{x=947, y=129, z=-333}
+[11Feb2025 21:25:45.705] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=944, y=129, z=-331} BlockPos{x=947, y=129, z=-333}
+[11Feb2025 21:25:45.761] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=944, y=129, z=-331} BlockPos{x=947, y=129, z=-333}
+[11Feb2025 21:25:45.821] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=944, y=129, z=-331} BlockPos{x=947, y=129, z=-333}
+[11Feb2025 21:26:57.056] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1817, y=155, z=-19} BlockPos{x=1817, y=154, z=-17}
+[11Feb2025 21:28:06.909] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2058, y=4, z=-70}
+[11Feb2025 21:28:06.909] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2058, y=4, z=-68}
+[11Feb2025 21:28:06.910] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2053, y=-9, z=-92}
+[11Feb2025 21:28:10.131] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2075, y=-23, z=-210}
+[11Feb2025 21:28:57.596] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=930, y=118, z=-340} BlockPos{x=931, y=117, z=-340}
+[11Feb2025 21:30:52.876] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:dark_forest took 282 ms
+[11Feb2025 21:30:59.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 2477.500000, 133.000000, -650.500000]
+[11Feb2025 21:30:59.978] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2420ms or 48 ticks behind
+[11Feb2025 21:31:12.992] [Worker-Main-14/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=2559, y=-4, z=-521}
+[11Feb2025 21:31:27.148] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2653, y=-45, z=-536}
+[11Feb2025 21:31:36.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> MIRAAAA
+[11Feb2025 21:31:40.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> xaero-waypoint:ROBLE OSCURO:R:2477:129:-651:12:false:0:Internal-overworld-waypoints
+[11Feb2025 21:32:05.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Liraanto> dónde estás?
+[11Feb2025 21:32:14.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 2477.500000, 129.500000, -650.500000]
+[11Feb2025 21:32:15.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> en ese waypoit
+[11Feb2025 21:34:54.659] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2730, y=-40, z=-768}
+[11Feb2025 21:34:56.130] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2515, y=116, z=-622} BlockPos{x=2522, y=116, z=-622}
+[11Feb2025 21:36:11.463] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
+[11Feb2025 21:37:07.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> look
+[11Feb2025 21:37:15.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> there is a fkn volcano
+[11Feb2025 21:37:41.871] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2232, y=-7, z=-375}
+[11Feb2025 21:37:41.871] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2232, y=-7, z=-374}
+[11Feb2025 21:37:49.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> estoy en una dungeon
+[11Feb2025 21:37:55.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> tepeate
+[11Feb2025 21:38:07.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to STRANJO]
+[11Feb2025 21:38:32.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Liraanto> espera
+[11Feb2025 21:38:35.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> ok
+[11Feb2025 21:40:46.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> xaero-waypoint:ROBLE OSCURO:R:2477:129:-651:12:false:0:Internal-overworld-waypoints
+[11Feb2025 21:40:51.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 2477.500000, 129.500000, -650.500000]
+[11Feb2025 21:40:52.350] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: STRANJO moved too quickly! 0.0,-10.490796109027968,0.0
+[11Feb2025 21:41:07.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> xaero-waypoint:MONTAÑA PLANA:M:845:112:-417:8:false:0:Internal-overworld-waypoints
+[11Feb2025 21:41:12.303] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2136, y=-11, z=-759}
+[11Feb2025 21:41:12.303] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2135, y=-11, z=-759}
+[11Feb2025 21:41:23.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 845.500000, 112.500000, -416.500000]
+[11Feb2025 21:41:23.480] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: STRANJO moved too quickly! -6.853444691897039,-7.972655338691737,15.216826316892366
+[11Feb2025 21:41:31.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 608.500000, 65.500000, -2731.500000]
+[11Feb2025 21:41:35.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 845.500000, 112.500000, -416.500000]

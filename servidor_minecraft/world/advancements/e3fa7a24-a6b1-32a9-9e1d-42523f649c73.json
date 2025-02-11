@@ -3260,7 +3260,8 @@
   },
   "cfm:recipes/decorations/stripped_dark_oak_kitchen_drawer": {
     "criteria": {
-      "has_chest": "2024-12-24 00:49:08 +0000"
+      "has_chest": "2024-12-24 00:49:08 +0000",
+      "has_log": "2025-02-11 21:32:48 +0000"
     },
     "done": false
   },
@@ -3408,6 +3409,7 @@
   "cfm:recipes/decorations/dark_oak_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-24 00:49:08 +0000",
+      "has_log": "2025-02-11 21:32:48 +0000",
       "has_planks": "2024-12-31 01:37:33 +0000"
     },
     "done": false
@@ -15157,6 +15159,19 @@
   "biomesoplenty:recipes/building_blocks/pine_wood": {
     "criteria": {
       "has_log": "2025-02-11 04:35:16 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/almost_unkillable": {
+    "criteria": {
+      "coded_trigger": "2025-02-11 21:16:39 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/banana_slug": {
+    "criteria": {
+      "killed_by": "2025-02-11 21:36:29 +0000",
+      "killed": "2025-02-11 21:36:29 +0000"
     },
     "done": false
   },

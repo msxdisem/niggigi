@@ -760,3 +760,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [11Feb2025 20:07:57.377] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: config sent
 [11Feb2025 20:08:13.051] [Server thread/INFO] [Jade/]: Syncing config to Liraanto (e3fa7a24-a6b1-32a9-9e1d-42523f649c73)
 [11Feb2025 20:08:14.794] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18286ms or 365 ticks behind
+[11Feb2025 20:16:25.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 937.500000, 113.500000, -369.500000]
+[11Feb2025 20:22:29.846] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=956, y=111, z=-299} BlockPos{x=956, y=111, z=-300}

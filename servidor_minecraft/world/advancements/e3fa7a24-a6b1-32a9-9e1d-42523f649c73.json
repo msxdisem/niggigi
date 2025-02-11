@@ -6860,7 +6860,8 @@
   },
   "supplementaries:recipes/crystal_display": {
     "criteria": {
-      "has_amethyst_shard": "2024-12-25 23:37:22 +0000"
+      "has_amethyst_shard": "2024-12-25 23:37:22 +0000",
+      "has_deepslate": "2025-02-11 21:43:44 +0000"
     },
     "done": false
   },
@@ -15168,10 +15169,22 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/deepslate_stepping_stones": {
+    "criteria": {
+      "has_deepslate": "2025-02-11 21:43:44 +0000"
+    },
+    "done": false
+  },
   "alexsmobs:alexsmobs/banana_slug": {
     "criteria": {
       "killed_by": "2025-02-11 21:36:29 +0000",
       "killed": "2025-02-11 21:36:29 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/deepslate_lamp": {
+    "criteria": {
+      "has_deepslate": "2025-02-11 21:43:44 +0000"
     },
     "done": false
   },

@@ -14047,6 +14047,7 @@
     "criteria": {
       "in_outpost_giant_tree_taiga": "2025-01-26 05:37:38 +0000",
       "in_outpost_nether_brick": "2024-12-31 05:53:45 +0000",
+      "in_outpost_jungle": "2025-02-11 21:50:46 +0000",
       "in_outpost_snowy": "2025-01-25 23:28:39 +0000"
     },
     "done": false
@@ -20728,9 +20729,10 @@
   },
   "biomesoplenty:recipes/building_blocks/fir_slab": {
     "criteria": {
+      "has_the_recipe": "2025-02-11 21:45:53 +0000",
       "has_planks": "2025-02-07 18:52:08 +0000"
     },
-    "done": false
+    "done": true
   },
   "biomesoplenty:recipes/decorations/fir_sign": {
     "criteria": {

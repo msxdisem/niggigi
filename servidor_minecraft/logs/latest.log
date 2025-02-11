@@ -808,3 +808,49 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [11Feb2025 21:05:04.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Liraanto> yeah
 [11Feb2025 21:05:39.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> estoy en ds
 [11Feb2025 21:05:42.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> por si queri
+[11Feb2025 21:05:54.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Liraanto> tienes una pala mejor que la morada que me puedas prestar?
+[11Feb2025 21:05:55.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> tengo q seguir recolectando materials pa la parte II del tmplo
+[11Feb2025 21:06:02.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> yes
+[11Feb2025 21:06:03.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> look
+[11Feb2025 21:06:06.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Liraanto> no tengo ganas de ir al ds ahora
+[11Feb2025 21:06:12.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> its the purple on
+[11Feb2025 21:06:14.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> one
+[11Feb2025 21:06:14.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Liraanto> no quiero escuchar gritos
+[11Feb2025 21:06:17.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> but better
+[11Feb2025 21:06:24.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> es cmo minar arena
+[11Feb2025 21:06:27.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> mira pruebala
+[11Feb2025 21:06:28.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Liraanto> gracias
+[11Feb2025 21:06:38.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> preo en survival
+[11Feb2025 21:06:54.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Liraanto> estoy en survival
+[11Feb2025 21:06:58.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Liraanto> creo
+[11Feb2025 21:07:00.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> okei
+[11Feb2025 21:07:11.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> te salen corazoncitos rojos abajo?
+[11Feb2025 21:07:14.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> en la barra
+[11Feb2025 21:07:17.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Liraanto> si
+[11Feb2025 21:07:21.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> a ya
+[11Feb2025 21:07:24.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Liraanto> y experiencia
+[11Feb2025 21:07:25.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> si
+[11Feb2025 21:07:31.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> stai en svval
+[11Feb2025 21:08:30.587] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=936, y=133, z=-335} BlockPos{x=937, y=132, z=-335}
+[11Feb2025 21:09:18.830] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=928, y=132, z=-327} BlockPos{x=927, y=131, z=-327}
+[11Feb2025 21:10:15.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Liraanto> oye
+[11Feb2025 21:10:19.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> a
+[11Feb2025 21:10:25.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Liraanto> hay que cambiar todo el piso negro?
+[11Feb2025 21:10:34.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> nono
+[11Feb2025 21:10:39.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> sólo lo que hizo el eguaro
+[11Feb2025 21:10:50.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> porq de esa manera see notará la diferencia
+[11Feb2025 21:10:53.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> kchai?
+[11Feb2025 21:10:59.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> entre el suelo y la estructura
+[11Feb2025 21:11:05.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> corte cambiar la textura
+[11Feb2025 21:11:12.583] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=919, y=129, z=-324} BlockPos{x=920, y=128, z=-327}
+[11Feb2025 21:11:12.784] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=918, y=129, z=-325} BlockPos{x=919, y=129, z=-324}
+[11Feb2025 21:11:12.833] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=918, y=129, z=-325} BlockPos{x=919, y=129, z=-324}
+[11Feb2025 21:11:12.890] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=918, y=129, z=-325} BlockPos{x=919, y=129, z=-324}
+[11Feb2025 21:11:12.937] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=918, y=129, z=-325} BlockPos{x=919, y=129, z=-324}
+[11Feb2025 21:11:12.986] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=918, y=129, z=-325} BlockPos{x=919, y=129, z=-324}
+[11Feb2025 21:11:13.037] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=918, y=129, z=-325} BlockPos{x=919, y=129, z=-324}
+[11Feb2025 21:11:13.089] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=918, y=129, z=-325} BlockPos{x=919, y=129, z=-324}
+[11Feb2025 21:15:23.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> alo
+[11Feb2025 21:15:27.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Liraanto> dime
+[11Feb2025 21:15:34.736] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=945, y=128, z=-320} BlockPos{x=944, y=127, z=-320}
+[11Feb2025 21:15:34.791] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=945, y=128, z=-320} BlockPos{x=944, y=127, z=-320}

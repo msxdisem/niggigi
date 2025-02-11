@@ -9774,9 +9774,10 @@
   },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
     "criteria": {
+      "has_the_recipe": "2025-02-11 03:08:06 +0000",
       "has_deepslate_bricks": "2025-01-14 17:55:13 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
     "criteria": {
@@ -15238,6 +15239,12 @@
     },
     "done": false
   },
+  "biomesoplenty:recipes/decorations/redwood_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-02-11 03:00:48 +0000"
+    },
+    "done": false
+  },
   "mcwbridges:recipes/dry_bamboo_bridge_pier": {
     "criteria": {
       "has_planks": "2025-02-11 02:52:04 +0000"
@@ -15404,6 +15411,12 @@
   "mcwbridges:recipes/bamboo_bridge": {
     "criteria": {
       "has_planks": "2025-02-11 02:52:04 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/building_blocks/stripped_redwood_wood": {
+    "criteria": {
+      "has_log": "2025-02-11 03:00:48 +0000"
     },
     "done": false
   },

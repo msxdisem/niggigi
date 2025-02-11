@@ -850,3 +850,17 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [11Feb2025 03:32:29.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 574.500000, 137.500000, -463.500000]
 [11Feb2025 03:32:50.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 585.500000, 153.500000, -444.500000]
 [11Feb2025 03:33:46.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to Liraanto]
+[11Feb2025 03:34:09.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 586.500000, 142.500000, -446.500000]
+[11Feb2025 03:37:18.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to Liraanto]
+[11Feb2025 03:38:52.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to Liraanto]
+[11Feb2025 03:39:07.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 585.500000, 170.500000, -446.500000]
+[11Feb2025 03:40:18.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 839.500000, 112.500000, -424.500000]
+[11Feb2025 03:40:35.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 874.500000, 125.500000, -404.500000]
+[11Feb2025 03:41:39.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 880.500000, 126.500000, -404.500000]
+[11Feb2025 03:41:44.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 677.500000, 117.500000, -347.500000]
+[11Feb2025 03:42:53.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 880.500000, 113.500000, -368.500000]
+[11Feb2025 03:43:09.972] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=895, y=118, z=-348} BlockPos{x=896, y=117, z=-348}
+[11Feb2025 03:43:19.265] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=912, y=131, z=-348} BlockPos{x=909, y=130, z=-348}
+[11Feb2025 03:43:20.076] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=908, y=129, z=-348} BlockPos{x=912, y=129, z=-348}
+[11Feb2025 03:43:41.666] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=915, y=132, z=-341} BlockPos{x=914, y=132, z=-342}
+[11Feb2025 03:43:44.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Set the weather to clear]

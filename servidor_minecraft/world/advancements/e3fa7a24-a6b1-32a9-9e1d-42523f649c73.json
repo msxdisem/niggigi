@@ -15163,12 +15163,6 @@
     },
     "done": false
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2025-02-11 22:43:30 +0000"
-    },
-    "done": false
-  },
   "tombstone:adventure/almost_unkillable": {
     "criteria": {
       "coded_trigger": "2025-02-11 21:16:39 +0000"

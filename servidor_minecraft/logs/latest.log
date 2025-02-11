@@ -775,3 +775,22 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [11Feb2025 02:29:18.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to Liraanto]
 [11Feb2025 02:30:19.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to Liraanto]
 [11Feb2025 02:30:34.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 839.500000, 112.500000, -424.500000]
+[11Feb2025 02:33:16.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 676.500000, 117.500000, -340.500000]
+[11Feb2025 02:33:54.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 4711.500000, 69.500000, -6861.500000]
+[11Feb2025 02:34:07.327] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=4669, y=24, z=-7021}
+[11Feb2025 02:34:19.840] [Worker-Main-11/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[11Feb2025 02:34:24.404] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=4455, y=28, z=-6877}
+[11Feb2025 02:34:24.405] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=4455, y=28, z=-6878}
+[11Feb2025 02:34:25.091] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=4491, y=12, z=-6930}
+[11Feb2025 02:34:25.091] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=4491, y=12, z=-6929}
+[11Feb2025 02:34:31.445] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=4506, y=3, z=-6969}
+[11Feb2025 02:34:52.775] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
+[11Feb2025 02:35:32.625] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=5359, y=-44, z=-6844}
+[11Feb2025 02:35:44.118] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=5446, y=-44, z=-6802}
+[11Feb2025 02:36:10.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 4949.500000, 83.500000, -6645.500000]
+[11Feb2025 02:37:34.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 4954.500000, 69.500000, -6644.500000]
+[11Feb2025 02:37:36.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 4949.500000, 85.500000, -6644.500000]
+[11Feb2025 02:38:01.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 4912.500000, 68.500000, -6669.500000]
+[11Feb2025 02:38:34.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 4882.500000, 87.500000, -6524.500000]
+[11Feb2025 02:39:02.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 5320.500000, 65.500000, -6818.500000]
+[11Feb2025 02:39:42.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 839.500000, 112.500000, -424.500000]

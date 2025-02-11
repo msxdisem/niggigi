@@ -3531,6 +3531,7 @@
   },
   "cfm:recipes/decorations/stripped_mangrove_kitchen_sink_light": {
     "criteria": {
+      "has_bottom": "2025-02-11 02:37:49 +0000",
       "has_bucket": "2025-01-13 23:35:44 +0000"
     },
     "done": false
@@ -3556,6 +3557,7 @@
   },
   "cfm:recipes/decorations/stripped_mangrove_kitchen_sink_dark": {
     "criteria": {
+      "has_bottom": "2025-02-11 02:37:49 +0000",
       "has_bucket": "2025-01-13 23:35:44 +0000"
     },
     "done": false
@@ -12064,7 +12066,8 @@
   "cfm:recipes/decorations/stripped_mangrove_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-01-20 01:19:05 +0000",
-      "has_log": "2025-01-26 04:35:40 +0000"
+      "has_log": "2025-01-26 04:35:40 +0000",
+      "has_planks": "2025-02-11 02:37:49 +0000"
     },
     "done": false
   },
@@ -14025,6 +14028,7 @@
   },
   "cfm:recipes/decorations/stripped_mangrove_bedside_cabinet": {
     "criteria": {
+      "has_log": "2025-02-11 02:37:49 +0000",
       "has_planks": "2025-01-26 04:35:40 +0000"
     },
     "done": false
@@ -14038,18 +14042,21 @@
   },
   "cfm:recipes/decorations/stripped_mangrove_park_bench": {
     "criteria": {
-      "has_log": "2025-01-26 04:35:40 +0000"
+      "has_log": "2025-01-26 04:35:40 +0000",
+      "has_planks": "2025-02-11 02:37:49 +0000"
     },
     "done": false
   },
   "cfm:recipes/decorations/stripped_mangrove_kitchen_counter": {
     "criteria": {
-      "has_log": "2025-01-26 04:35:40 +0000"
+      "has_log": "2025-01-26 04:35:40 +0000",
+      "has_planks": "2025-02-11 02:37:49 +0000"
     },
     "done": false
   },
   "cfm:recipes/decorations/stripped_mangrove_chair": {
     "criteria": {
+      "has_log": "2025-02-11 02:37:49 +0000",
       "has_planks": "2025-01-26 04:35:40 +0000"
     },
     "done": false
@@ -14063,7 +14070,8 @@
   },
   "cfm:recipes/decorations/stripped_mangrove_cabinet": {
     "criteria": {
-      "has_log": "2025-01-26 04:35:40 +0000"
+      "has_log": "2025-01-26 04:35:40 +0000",
+      "has_planks": "2025-02-11 02:37:49 +0000"
     },
     "done": false
   },
@@ -14103,6 +14111,7 @@
   },
   "cfm:recipes/decorations/stripped_mangrove_crate": {
     "criteria": {
+      "has_log": "2025-02-11 02:37:49 +0000",
       "has_planks": "2025-01-26 04:35:40 +0000"
     },
     "done": false
@@ -14122,6 +14131,7 @@
   },
   "cfm:recipes/decorations/stripped_mangrove_coffee_table": {
     "criteria": {
+      "has_log": "2025-02-11 02:37:49 +0000",
       "has_planks": "2025-01-26 04:35:40 +0000"
     },
     "done": false
@@ -14154,12 +14164,14 @@
   },
   "cfm:recipes/decorations/stripped_mangrove_table": {
     "criteria": {
+      "has_log": "2025-02-11 02:37:49 +0000",
       "has_planks": "2025-01-26 04:35:40 +0000"
     },
     "done": false
   },
   "cfm:recipes/decorations/stripped_mangrove_desk": {
     "criteria": {
+      "has_log": "2025-02-11 02:37:49 +0000",
       "has_planks": "2025-01-26 04:35:40 +0000"
     },
     "done": false
@@ -14179,6 +14191,7 @@
   },
   "cfm:recipes/decorations/stripped_mangrove_desk_cabinet": {
     "criteria": {
+      "has_log": "2025-02-11 02:37:49 +0000",
       "has_planks": "2025-01-26 04:35:40 +0000"
     },
     "done": false
@@ -15198,6 +15211,36 @@
       "killed_skeleton": "2025-02-07 20:25:08 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_mangrove_wood": {
+    "criteria": {
+      "has_log": "2025-02-11 02:37:49 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/stripped_mangrove_blinds": {
+    "criteria": {
+      "has_log": "2025-02-11 02:37:49 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/stripped_mangrove_upgraded_gate": {
+    "criteria": {
+      "has_log": "2025-02-11 02:37:49 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/stripped_mangrove_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-02-11 02:37:49 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/mangrove_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-02-11 02:37:49 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

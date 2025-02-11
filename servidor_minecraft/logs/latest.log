@@ -1026,3 +1026,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [11Feb2025 22:16:24.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> 7tp li
 [11Feb2025 22:16:27.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Liraanto]
 [11Feb2025 22:16:46.257] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=978, y=114, z=-337} BlockPos{x=977, y=114, z=-336}
+[11Feb2025 22:17:40.904] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=988, y=107, z=-342} BlockPos{x=989, y=108, z=-342}
+[11Feb2025 22:19:09.475] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=993, y=114, z=-341} BlockPos{x=993, y=113, z=-340}
+[11Feb2025 22:21:02.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 943.500000, 113.500000, -363.500000]

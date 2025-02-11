@@ -778,3 +778,33 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [11Feb2025 20:50:14.953] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=922, y=133, z=-334} BlockPos{x=920, y=133, z=-335}
 [11Feb2025 20:54:26.945] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=941, y=131, z=-339} BlockPos{x=942, y=130, z=-339}
 [11Feb2025 20:54:45.505] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=935, y=129, z=-337} BlockPos{x=936, y=128, z=-336}
+[11Feb2025 20:57:20.351] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=924, y=132, z=-340} BlockPos{x=928, y=132, z=-338}
+[11Feb2025 20:59:37.954] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=910, y=120, z=-341} BlockPos{x=910, y=121, z=-341}
+[11Feb2025 21:02:17.396] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: STRANJO[/100.94.65.49:50790] logged in with entity id 22719 at (721.7999992954351, 81.0, -551.6144018758241)
+[11Feb2025 21:02:17.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO joined the game
+[11Feb2025 21:02:17.464] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: PLAYER_JOIN
+[11Feb2025 21:02:17.464] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: add_player wand
+[11Feb2025 21:02:17.464] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: config sent
+[11Feb2025 21:02:17.467] [Server thread/INFO] [Jade/]: Syncing config to STRANJO (2e6e150c-8207-3118-accc-8edfd2b8dd5b)
+[11Feb2025 21:02:19.329] [Netty Epoll Server IO #3/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] STRANJO: protocol version: 2.0
+[11Feb2025 21:02:19.338] [Server thread/INFO] [ShulkerBoxTooltip Plugins/]: [ShulkerBoxTooltip Plugins] Loading 1 plugin: shulkerboxtooltip
+[11Feb2025 21:02:19.341] [Server thread/INFO] [ShulkerBoxTooltip Plugins/]: [ShulkerBoxTooltip Plugins] Registered 7 providers for mod shulkerboxtooltip
+[11Feb2025 21:02:46.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> ola nigi
+[11Feb2025 21:02:51.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Liraanto]
+[11Feb2025 21:03:02.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> ola
+[11Feb2025 21:03:07.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> behind you
+[11Feb2025 21:03:07.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Liraanto> hola
+[11Feb2025 21:03:13.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> jiji
+[11Feb2025 21:03:39.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> OMAIGOOOD
+[11Feb2025 21:04:11.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Liraanto> lo hizo el yogu yogu
+[11Feb2025 21:04:12.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> eso si el ladrillo ngro hay q cambiarlo
+[11Feb2025 21:04:23.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> look
+[11Feb2025 21:04:25.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> wait
+[11Feb2025 21:04:36.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> this
+[11Feb2025 21:04:49.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> its not the same
+[11Feb2025 21:04:49.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Liraanto> me gusta
+[11Feb2025 21:04:50.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> but
+[11Feb2025 21:04:56.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> its prettier
+[11Feb2025 21:05:04.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Liraanto> yeah
+[11Feb2025 21:05:39.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> estoy en ds
+[11Feb2025 21:05:42.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> por si queri

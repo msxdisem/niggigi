@@ -11579,9 +11579,10 @@
   },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
     "criteria": {
+      "has_the_recipe": "2025-02-11 21:56:44 +0000",
       "has_deepslate_bricks": "2024-12-28 03:52:42 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
     "criteria": {
@@ -11648,9 +11649,10 @@
   },
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
     "criteria": {
+      "has_the_recipe": "2025-02-11 21:55:03 +0000",
       "has_deepslate_bricks": "2024-12-28 03:52:42 +0000"
     },
-    "done": false
+    "done": true
   },
   "alexscaves:alexscaves/dinosaur_nugget": {
     "criteria": {

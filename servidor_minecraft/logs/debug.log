@@ -12832,3 +12832,27 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [11Feb2025 21:54:48.091] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=944, y=128, z=-345} BlockPos{x=941, y=126, z=-345}
 [11Feb2025 21:54:48.146] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=944, y=128, z=-345} BlockPos{x=941, y=126, z=-345}
 [11Feb2025 21:54:53.344] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=946, y=127, z=-346} BlockPos{x=947, y=127, z=-347}
+[11Feb2025 21:57:11.111] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Feb2025 21:57:11.136] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Feb2025 21:59:25.219] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Glowstone Dust'/54610, l='ServerLevel[world]', x=152.96, y=52.00, z=-159.35], dimensionLocationPath the_nether
+[11Feb2025 21:59:25.219] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ItemEntity['Glowstone Dust'/54610, l='ServerLevel[world]', x=152.96, y=52.00, z=-159.35] is dead or in a banned dimension the_nether
+[11Feb2025 21:59:25.219] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Glowstone Dust'/54606, l='ServerLevel[world]', x=124.28, y=105.00, z=37.76], dimensionLocationPath the_nether
+[11Feb2025 21:59:25.220] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ItemEntity['Glowstone Dust'/54606, l='ServerLevel[world]', x=124.28, y=105.00, z=37.76] is dead or in a banned dimension the_nether
+[11Feb2025 21:59:25.513] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Glowstone Dust'/54630, l='ServerLevel[world]', x=146.33, y=54.00, z=-163.55], dimensionLocationPath the_nether
+[11Feb2025 21:59:25.513] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ItemEntity['Glowstone Dust'/54630, l='ServerLevel[world]', x=146.33, y=54.00, z=-163.55] is dead or in a banned dimension the_nether
+[11Feb2025 21:59:25.513] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Glowstone Dust'/54631, l='ServerLevel[world]', x=151.71, y=53.00, z=-160.40], dimensionLocationPath the_nether
+[11Feb2025 21:59:25.513] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ItemEntity['Glowstone Dust'/54631, l='ServerLevel[world]', x=151.71, y=53.00, z=-160.40] is dead or in a banned dimension the_nether
+[11Feb2025 21:59:42.599] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:herobrine but it was marked as removed already
+[11Feb2025 22:00:05.363] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[11Feb2025 22:00:37.154] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16796ms or 335 ticks behind
+[11Feb2025 22:02:29.884] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Feb2025 22:02:29.910] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Feb2025 22:03:53.812] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[11Feb2025 22:04:24.863] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[11Feb2025 22:04:58.859] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[11Feb2025 22:05:20.570] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:herobrine but it was marked as removed already
+[11Feb2025 22:05:22.012] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[11Feb2025 22:05:43.613] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[11Feb2025 22:06:13.109] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[11Feb2025 22:06:37.860] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[11Feb2025 22:07:01.768] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind

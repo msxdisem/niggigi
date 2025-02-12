@@ -790,3 +790,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [12Feb2025 16:39:52.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto was slain by The Hunter
 [12Feb2025 16:39:52.481] [Server thread/INFO] [tombstone/]: The player Liraanto has successfully been saved
 [12Feb2025 16:40:04.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 957.500000, 112.500000, -316.500000]
+[12Feb2025 16:49:13.839] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=986, y=122, z=-399} BlockPos{x=986, y=122, z=-398}

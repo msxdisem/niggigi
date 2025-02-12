@@ -763,3 +763,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [12Feb2025 18:40:05.558] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: config sent
 [12Feb2025 18:40:20.932] [Server thread/INFO] [Jade/]: Syncing config to Liraanto (e3fa7a24-a6b1-32a9-9e1d-42523f649c73)
 [12Feb2025 18:40:22.549] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17735ms or 354 ticks behind
+[12Feb2025 18:49:30.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto was slain by Equestrian
+[12Feb2025 18:49:30.172] [Server thread/INFO] [tombstone/]: The player Liraanto has successfully been saved
+[12Feb2025 18:49:36.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 877.500000, 113.500000, -392.500000]
+[12Feb2025 19:07:15.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 491.500000, 68.500000, 55.500000]

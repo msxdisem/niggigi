@@ -810,3 +810,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [12Feb2025 04:26:03.418] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=915, y=114, z=-506} BlockPos{x=913, y=115, z=-503}
 [12Feb2025 04:26:03.472] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=915, y=114, z=-506} BlockPos{x=913, y=115, z=-503}
 [12Feb2025 04:26:03.544] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=915, y=114, z=-506} BlockPos{x=913, y=115, z=-503}
+[12Feb2025 04:35:23.806] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=912, y=114, z=-495} BlockPos{x=912, y=115, z=-495}
+[12Feb2025 04:37:37.905] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:herobrine but it was marked as removed already

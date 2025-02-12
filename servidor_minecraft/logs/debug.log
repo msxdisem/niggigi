@@ -12069,3 +12069,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [12Feb2025 03:24:20.161] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=966, y=114, z=-309} BlockPos{x=965, y=116, z=-309}
 [12Feb2025 03:26:22.547] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [12Feb2025 03:26:22.575] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Feb2025 03:31:22.500] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Feb2025 03:31:22.528] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Feb2025 03:34:46.502] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Liraanto lost connection: Disconnected
+[12Feb2025 03:34:46.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto left the game
+[12Feb2025 03:34:46.504] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
+[12Feb2025 03:34:46.555] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[12Feb2025 03:36:22.451] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Feb2025 03:36:22.477] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

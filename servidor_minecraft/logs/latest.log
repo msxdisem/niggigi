@@ -833,3 +833,14 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [12Feb2025 22:00:25.348] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=999, y=114, z=-332} BlockPos{x=1004, y=114, z=-329}
 [12Feb2025 22:00:41.797] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=944, y=115, z=-302} BlockPos{x=942, y=116, z=-302}
 [12Feb2025 22:01:45.561] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=990, y=114, z=-312} BlockPos{x=989, y=114, z=-312}
+[12Feb2025 22:07:52.446] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=993, y=117, z=-385} BlockPos{x=994, y=117, z=-385}
+[12Feb2025 22:08:08.095] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=994, y=119, z=-406} BlockPos{x=993, y=119, z=-406}
+[12Feb2025 22:09:44.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Liraanto> bichos qllos maracos
+[12Feb2025 22:09:48.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> si
+[12Feb2025 22:11:35.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 1001.500000, 162.500000, -419.500000]
+[12Feb2025 22:11:58.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 1000.500000, 166.500000, -419.500000]
+[12Feb2025 22:12:25.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 1010.500000, 153.500000, -435.500000]
+[12Feb2025 22:13:32.076] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1014, y=126, z=-402} BlockPos{x=1013, y=123, z=-402}
+[12Feb2025 22:13:50.051] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1011, y=117, z=-401} BlockPos{x=1017, y=117, z=-402}
+[12Feb2025 22:16:15.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 1003.500000, 147.500000, -442.500000]
+[12Feb2025 22:16:53.084] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1015, y=141, z=-402} BlockPos{x=1015, y=140, z=-403}

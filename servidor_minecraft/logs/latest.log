@@ -770,3 +770,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [12Feb2025 19:07:58.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 649.500000, 108.500000, -340.500000]
 [12Feb2025 19:08:33.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 845.500000, 112.500000, -416.500000]
 [12Feb2025 19:31:27.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 933.500000, 124.500000, -325.500000]
+[12Feb2025 19:49:53.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto was squished too much
+[12Feb2025 19:49:53.503] [Server thread/INFO] [tombstone/]: The player Liraanto has successfully been saved
+[12Feb2025 19:49:59.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 994.500000, 112.500000, -296.500000]
+[12Feb2025 20:03:11.342] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=929, y=117, z=-305} BlockPos{x=929, y=116, z=-306}
+[12Feb2025 20:05:27.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 934.500000, 124.500000, -326.500000]
+[12Feb2025 20:06:02.401] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=940, y=123, z=-329} BlockPos{x=939, y=123, z=-329}
+[12Feb2025 20:06:02.441] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=941, y=123, z=-329} BlockPos{x=939, y=123, z=-329}

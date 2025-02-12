@@ -767,3 +767,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [12Feb2025 18:49:30.172] [Server thread/INFO] [tombstone/]: The player Liraanto has successfully been saved
 [12Feb2025 18:49:36.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 877.500000, 113.500000, -392.500000]
 [12Feb2025 19:07:15.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 491.500000, 68.500000, 55.500000]
+[12Feb2025 19:07:58.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 649.500000, 108.500000, -340.500000]
+[12Feb2025 19:08:33.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 845.500000, 112.500000, -416.500000]

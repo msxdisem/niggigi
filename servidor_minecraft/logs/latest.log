@@ -885,3 +885,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [12Feb2025 22:37:17.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> a
 [12Feb2025 22:37:19.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> eguaro
 [12Feb2025 22:37:22.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> eguaro
+[12Feb2025 22:44:30.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to Liraanto]
+[12Feb2025 22:46:20.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 989.500000, 139.500000, -526.500000]
+[12Feb2025 22:46:49.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to Eguaro]
+[12Feb2025 22:47:29.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 979.500000, 112.500000, -507.500000]

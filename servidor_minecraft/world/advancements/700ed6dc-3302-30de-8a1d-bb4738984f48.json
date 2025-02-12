@@ -15224,111 +15224,40 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-11 03:55:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-11 03:55:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-11 03:55:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-11 03:55:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-11 03:55:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-11 03:55:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-11 03:55:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-11 03:55:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-11 03:55:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-11 03:55:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-11 03:55:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-11 03:55:27 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/stripped_mangrove_wood": {
     "criteria": {
       "has_log": "2025-02-11 02:37:49 +0000"
     },
     "done": false
   },
-  "cfm:recipes/decorations/stripped_spruce_upgraded_gate": {
+  "cfm:recipes/decorations/stripped_mangrove_blinds": {
     "criteria": {
+      "has_log": "2025-02-11 02:37:49 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/stripped_mangrove_upgraded_gate": {
+    "criteria": {
+      "has_log": "2025-02-11 02:37:49 +0000",
       "has_gate": "2025-02-11 02:48:21 +0000"
     },
     "done": false
   },
-  "mcwbridges:recipes/dry_bamboo_bridge": {
+  "cfm:recipes/decorations/stripped_mangrove_upgraded_fence": {
     "criteria": {
-      "has_planks": "2025-02-11 02:52:04 +0000"
+      "has_log": "2025-02-11 02:37:49 +0000"
     },
     "done": false
   },
-  "biomesoplenty:recipes/decorations/redwood_hanging_sign": {
+  "minecraft:recipes/decorations/mangrove_hanging_sign": {
     "criteria": {
-      "has_stripped_logs": "2025-02-11 03:00:48 +0000"
+      "has_stripped_logs": "2025-02-11 02:37:49 +0000"
     },
     "done": false
   },
-  "mcwbridges:recipes/dry_bamboo_bridge_pier": {
+  "cfm:recipes/decorations/stripped_spruce_upgraded_gate": {
     "criteria": {
-      "has_planks": "2025-02-11 02:52:04 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/raw_gold": {
-    "criteria": {
-      "has_raw_gold_block": "2025-02-11 02:50:01 +0000"
+      "has_gate": "2025-02-11 02:48:21 +0000"
     },
     "done": false
   },
@@ -15344,18 +15273,6 @@
     },
     "done": false
   },
-  "supplementaries:recipes/flute": {
-    "criteria": {
-      "has_bamboo": "2025-02-11 02:52:04 +0000"
-    },
-    "done": false
-  },
-  "mcwbridges:recipes/bamboo_bridge_pier": {
-    "criteria": {
-      "has_planks": "2025-02-11 02:52:04 +0000"
-    },
-    "done": false
-  },
   "cfm:recipes/decorations/stripped_warped_upgraded_gate": {
     "criteria": {
       "has_gate": "2025-02-11 02:48:21 +0000"
@@ -15365,12 +15282,6 @@
   "cfm:recipes/decorations/birch_upgraded_gate": {
     "criteria": {
       "has_gate": "2025-02-11 02:48:21 +0000"
-    },
-    "done": false
-  },
-  "cfm:recipes/decorations/stripped_mangrove_blinds": {
-    "criteria": {
-      "has_log": "2025-02-11 02:37:49 +0000"
     },
     "done": false
   },
@@ -15416,25 +15327,6 @@
     },
     "done": false
   },
-  "minecraft:recipes/misc/stick_from_bamboo_item": {
-    "criteria": {
-      "has_bamboo": "2025-02-11 02:52:04 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/bamboo_block": {
-    "criteria": {
-      "has_bamboo": "2025-02-11 02:52:04 +0000"
-    },
-    "done": false
-  },
-  "cfm:recipes/decorations/stripped_mangrove_upgraded_gate": {
-    "criteria": {
-      "has_log": "2025-02-11 02:37:49 +0000",
-      "has_gate": "2025-02-11 02:48:21 +0000"
-    },
-    "done": false
-  },
   "cfm:recipes/decorations/magenta_picket_gate": {
     "criteria": {
       "has_gate": "2025-02-11 02:48:21 +0000"
@@ -15444,12 +15336,6 @@
   "cfm:recipes/decorations/lime_picket_gate": {
     "criteria": {
       "has_gate": "2025-02-11 02:48:21 +0000"
-    },
-    "done": false
-  },
-  "cfm:recipes/decorations/stripped_mangrove_upgraded_fence": {
-    "criteria": {
-      "has_log": "2025-02-11 02:37:49 +0000"
     },
     "done": false
   },
@@ -15483,18 +15369,6 @@
     },
     "done": false
   },
-  "mcwbridges:recipes/bamboo_bridge": {
-    "criteria": {
-      "has_planks": "2025-02-11 02:52:04 +0000"
-    },
-    "done": false
-  },
-  "biomesoplenty:recipes/building_blocks/stripped_redwood_wood": {
-    "criteria": {
-      "has_log": "2025-02-11 03:00:48 +0000"
-    },
-    "done": false
-  },
   "cfm:recipes/decorations/stripped_dark_oak_upgraded_gate": {
     "criteria": {
       "has_gate": "2025-02-11 02:48:21 +0000"
@@ -15510,12 +15384,6 @@
   "cfm:recipes/decorations/orange_picket_gate": {
     "criteria": {
       "has_gate": "2025-02-11 02:48:21 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/mangrove_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-02-11 02:37:49 +0000"
     },
     "done": false
   },
@@ -15543,9 +15411,69 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2025-02-11 02:50:01 +0000"
+    },
+    "done": false
+  },
+  "mcwbridges:recipes/dry_bamboo_bridge": {
+    "criteria": {
+      "has_planks": "2025-02-11 02:52:04 +0000"
+    },
+    "done": false
+  },
+  "mcwbridges:recipes/dry_bamboo_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-02-11 02:52:04 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/flute": {
+    "criteria": {
+      "has_bamboo": "2025-02-11 02:52:04 +0000"
+    },
+    "done": false
+  },
+  "mcwbridges:recipes/bamboo_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-02-11 02:52:04 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-02-11 02:52:04 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-02-11 02:52:04 +0000"
+    },
+    "done": false
+  },
+  "mcwbridges:recipes/bamboo_bridge": {
+    "criteria": {
+      "has_planks": "2025-02-11 02:52:04 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2025-02-11 02:52:04 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/decorations/redwood_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-02-11 03:00:48 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/building_blocks/stripped_redwood_wood": {
+    "criteria": {
+      "has_log": "2025-02-11 03:00:48 +0000"
     },
     "done": false
   },

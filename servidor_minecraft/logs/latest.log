@@ -787,3 +787,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [12Feb2025 16:05:12.943] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:herobrine but it was marked as removed already
 [12Feb2025 16:09:13.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 845.500000, 112.500000, -416.500000]
 [12Feb2025 16:22:12.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 921.500000, 124.500000, -329.500000]
+[12Feb2025 16:39:52.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto was slain by The Hunter
+[12Feb2025 16:39:52.481] [Server thread/INFO] [tombstone/]: The player Liraanto has successfully been saved
+[12Feb2025 16:40:04.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 957.500000, 112.500000, -316.500000]

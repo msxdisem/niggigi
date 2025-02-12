@@ -768,3 +768,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [12Feb2025 03:14:28.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 904.500000, 120.500000, -343.500000]
 [12Feb2025 03:16:26.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto has completed the challenge [Strike upon thee]
 [12Feb2025 03:18:05.813] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=907, y=117, z=-305} BlockPos{x=907, y=117, z=-306}
+[12Feb2025 03:22:03.108] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=941, y=114, z=-300} BlockPos{x=940, y=114, z=-299}
+[12Feb2025 03:22:08.030] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=947, y=115, z=-297} BlockPos{x=948, y=114, z=-297}
+[12Feb2025 03:24:20.061] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=965, y=115, z=-310} BlockPos{x=965, y=116, z=-309}
+[12Feb2025 03:24:20.110] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=966, y=114, z=-309} BlockPos{x=965, y=116, z=-309}
+[12Feb2025 03:24:20.161] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=966, y=114, z=-309} BlockPos{x=965, y=116, z=-309}

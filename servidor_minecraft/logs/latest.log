@@ -777,3 +777,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [12Feb2025 03:34:46.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto left the game
 [12Feb2025 03:34:46.504] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
 [12Feb2025 03:34:46.555] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[12Feb2025 03:55:30.942] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Liraanto[/100.109.72.127:54723] logged in with entity id 7063 at (990.6437410183763, 108.0, -335.9079494719415)
+[12Feb2025 03:55:30.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto joined the game
+[12Feb2025 03:55:30.994] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: PLAYER_JOIN
+[12Feb2025 03:55:30.995] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: add_player wand
+[12Feb2025 03:55:30.995] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: config sent
+[12Feb2025 03:55:30.999] [Server thread/INFO] [Jade/]: Syncing config to Liraanto (e3fa7a24-a6b1-32a9-9e1d-42523f649c73)
+[12Feb2025 03:55:31.343] [Netty Epoll Server IO #3/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] Liraanto: protocol version: 2.0
+[12Feb2025 03:55:32.313] [Server thread/INFO] [ShulkerBoxTooltip Plugins/]: [ShulkerBoxTooltip Plugins] Loading 1 plugin: shulkerboxtooltip
+[12Feb2025 03:55:32.316] [Server thread/INFO] [ShulkerBoxTooltip Plugins/]: [ShulkerBoxTooltip Plugins] Registered 7 providers for mod shulkerboxtooltip

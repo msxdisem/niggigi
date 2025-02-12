@@ -784,3 +784,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [12Feb2025 15:56:05.197] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=735, y=-3, z=-307} BlockPos{x=735, y=-4, z=-309}
 [12Feb2025 15:56:05.241] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=735, y=-3, z=-307} BlockPos{x=735, y=-4, z=-309}
 [12Feb2025 15:56:07.544] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=738, y=-2, z=-307} BlockPos{x=737, y=-3, z=-307}
+[12Feb2025 16:05:12.943] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:herobrine but it was marked as removed already
+[12Feb2025 16:09:13.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 845.500000, 112.500000, -416.500000]

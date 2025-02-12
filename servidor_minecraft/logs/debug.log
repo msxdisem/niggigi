@@ -12230,3 +12230,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [12Feb2025 20:05:27.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 934.500000, 124.500000, -326.500000]
 [12Feb2025 20:06:02.401] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=940, y=123, z=-329} BlockPos{x=939, y=123, z=-329}
 [12Feb2025 20:06:02.441] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=941, y=123, z=-329} BlockPos{x=939, y=123, z=-329}
+[12Feb2025 20:09:18.159] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Feb2025 20:09:18.184] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Feb2025 20:14:18.169] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Feb2025 20:14:18.195] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

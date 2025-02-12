@@ -8130,9 +8130,10 @@
   },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
-      "has_gunpowder": "2025-01-14 15:06:19 +0000"
+      "has_gunpowder": "2025-01-14 15:06:19 +0000",
+      "has_the_recipe": "2025-02-12 22:58:22 +0000"
     },
-    "done": false
+    "done": true
   },
   "crystalcraft_unlimited_java:garnet_miner": {
     "criteria": {
@@ -10242,9 +10243,10 @@
   },
   "securitycraft:recipes/building_blocks/dirt_mine": {
     "criteria": {
-      "has_mine": "2025-01-15 01:41:09 +0000"
+      "has_mine": "2025-01-15 01:41:09 +0000",
+      "has_the_recipe": "2025-02-12 23:00:09 +0000"
     },
-    "done": false
+    "done": true
   },
   "securitycraft:recipes/misc/block_pocket_manager": {
     "criteria": {

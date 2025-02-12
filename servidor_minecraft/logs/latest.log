@@ -906,3 +906,23 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [12Feb2025 22:56:52.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 797.500000, 120.500000, -202.500000]
 [12Feb2025 22:57:52.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 1031.500000, 108.500000, -386.500000]
 [12Feb2025 22:57:59.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 1003.500000, 112.500000, -464.500000]
+[12Feb2025 22:58:28.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 932.500000, 135.500000, -503.500000]
+[12Feb2025 22:58:32.539] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=929, y=132, z=-498} BlockPos{x=930, y=132, z=-498}
+[12Feb2025 22:58:32.589] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=929, y=132, z=-498} BlockPos{x=930, y=132, z=-498}
+[12Feb2025 22:58:32.640] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=929, y=132, z=-498} BlockPos{x=930, y=132, z=-498}
+[12Feb2025 22:58:32.895] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=929, y=134, z=-497} BlockPos{x=928, y=132, z=-497}
+[12Feb2025 22:58:32.937] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=929, y=134, z=-497} BlockPos{x=928, y=132, z=-497}
+[12Feb2025 22:59:46.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 676.500000, 117.500000, -340.500000]
+[12Feb2025 23:00:17.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 927.500000, 128.500000, -512.500000]
+[12Feb2025 23:01:21.338] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eguaro moved wrongly!
+[12Feb2025 23:02:27.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Liraanto to Eguaro]
+[12Feb2025 23:02:54.638] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=878, y=118, z=-497} BlockPos{x=878, y=117, z=-497}
+[12Feb2025 23:02:54.687] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=878, y=118, z=-497} BlockPos{x=878, y=117, z=-497}
+[12Feb2025 23:02:57.937] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=874, y=119, z=-497} BlockPos{x=875, y=119, z=-497}
+[12Feb2025 23:03:54.298] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=859, y=116, z=-494} BlockPos{x=860, y=115, z=-494}
+[12Feb2025 23:03:54.354] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=859, y=116, z=-494} BlockPos{x=860, y=115, z=-494}
+[12Feb2025 23:04:51.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto was shot by Eguaro
+[12Feb2025 23:04:51.977] [Server thread/INFO] [tombstone/]: The player Liraanto has successfully been saved
+[12Feb2025 23:04:59.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 900.500000, 112.500000, -505.500000]
+[12Feb2025 23:05:24.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: The difficulty has been set to Peaceful]
+[12Feb2025 23:08:02.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 907.500000, 112.500000, -526.500000]

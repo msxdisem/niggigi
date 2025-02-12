@@ -12106,3 +12106,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [12Feb2025 16:49:13.839] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=986, y=122, z=-399} BlockPos{x=986, y=122, z=-398}
 [12Feb2025 16:50:54.976] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [12Feb2025 16:50:55.013] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Feb2025 16:55:54.970] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Feb2025 16:55:54.995] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Feb2025 17:00:54.969] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Feb2025 17:00:54.997] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Feb2025 17:03:48.516] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/21934, l='ServerLevel[world]', x=985.64, y=112.33, z=-487.46], dimensionLocationPath overworld
+[12Feb2025 17:03:57.566] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/21934, l='ServerLevel[world]', x=985.69, y=112.00, z=-486.59, removed=DISCARDED]
+[12Feb2025 17:04:08.916] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/21977, l='ServerLevel[world]', x=985.44, y=112.30, z=-476.49], dimensionLocationPath overworld
+[12Feb2025 17:04:08.916] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/21977, l='ServerLevel[world]', x=985.44, y=112.30, z=-476.49] in list []
+[12Feb2025 17:04:09.416] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/21977, l='ServerLevel[world]', x=985.88, y=112.06, z=-475.87, removed=DISCARDED]

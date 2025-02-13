@@ -776,3 +776,23 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [13Feb2025 03:06:23.555] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1234, y=-12, z=-125}
 [13Feb2025 03:06:23.555] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1234, y=-12, z=-123}
 [13Feb2025 03:07:21.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to -1251.500000, 66.500000, 207.500000]
+[13Feb2025 03:08:58.372] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[13Feb2025 03:09:22.177] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8809ms or 176 ticks behind
+[13Feb2025 03:09:32.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to -1624.500000, 63.500000, 303.500000]
+[13Feb2025 03:09:40.163] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1852, y=25, z=387}
+[13Feb2025 03:09:44.973] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[13Feb2025 03:10:37.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to -1724.500000, 72.500000, 596.500000]
+[13Feb2025 03:10:49.077] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[13Feb2025 03:10:55.214] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1912, y=-23, z=748}
+[13Feb2025 03:10:55.216] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1913, y=-23, z=748}
+[13Feb2025 03:11:07.305] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1827, y=0, z=816}
+[13Feb2025 03:11:07.306] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1828, y=0, z=816}
+[13Feb2025 03:11:09.571] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5503ms or 110 ticks behind
+[13Feb2025 03:11:27.239] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-2061, y=22, z=735}
+[13Feb2025 03:11:27.239] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-2060, y=22, z=735}
+[13Feb2025 03:11:27.240] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-2059, y=22, z=735}
+[13Feb2025 03:11:27.269] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2062, y=22, z=738}
+[13Feb2025 03:11:30.824] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6257ms or 125 ticks behind
+[13Feb2025 03:14:24.017] [pool-5-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_crimson], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_warped], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_giant_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_bamboo], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_jungle]] from pos BlockPos{x=-2357, y=79, z=741}
+[13Feb2025 03:18:04.686] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2285, y=-1, z=402}
+[13Feb2025 03:18:33.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to -1907.500000, 114.500000, 645.500000]
